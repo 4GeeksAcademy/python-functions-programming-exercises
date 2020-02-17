@@ -1,12 +1,17 @@
 image:
   file: .gitpod.Dockerfile
 
-# List the ports you want to expose and what to do when they are served. See https://www.gitpod.io/docs/config-ports/
 ports:
-  - port: 3000
-    onOpen: open-preview
-
-# List the start up tasks. You can start them in parallel in multiple terminals. See https://www.gitpod.io/docs/config-start-tasks/
+    - port: 3000
+      onOpen: open-prerview
 tasks:
-  - command: >
-      bc run;
+    - command: >
+        bc run;
+github:
+    prebuilds:
+        # enable for the master/default branch (defaults to true)
+        master: true
+        # enable for pull requests coming from this repo (defaults to true)
+        pullRequests: false
+        # add a "Review in Gitpod" button as a comment to pull requests (defaults to true)
+        addComment: false
