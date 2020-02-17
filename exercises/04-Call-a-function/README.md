@@ -1,71 +1,43 @@
-# `04` Calling a function
+# `04` Calling a function  
 
+A function could receive 0 no parameters, and you can it always returns something, event if you don't explicitly add the `return` statement.
 
-Functions are blocks of code that you save to be (re)used later that specific fragment of code has a predefined purpose and it does a defined task. A function could receive some or no parameters to be able to execute and must always return.
-=======
-
+:point_up: [Click here to read more about functions](https://content.breatheco.de/lesson/working-with-functions-python)
 
 For example: a function that calculates the area of a square will be something like this:
 
-```js
-function calculateArea(length, edge)
-{
+```python
+def calculate_area(length, edge):
     return length * edge
-}
 ```
-
-
-=======
 
 If you want to use that function to calculate the area of a square with
-=======
 
-
-
-```
+```python
 length = 3
 edge = 6
 ```
 
-
-=======
-
-
 You need to do something like this:
-```js
-let squareArea = calculateArea(3,6)
+```python
+area = calculate_area(3,6)
+# The value of area will be set to 18
 ```
-The value of squareArea will be set to 18"
 
-
-
-
-
-Exercise:
-=======
 # 📝 Instructions:
 
+Create a new variables named square_area1, square_area2, square_area3 and call the function calculate_area 3 times one fo each square in the picture, for example: 
 
-   Create a new variable named squareArea for each new iteration of the calculateArea function using the figure dimensions, for example for the first figure,
-   ```js
-let squareArea1 = calculateArea(3,6)
+```python
+# For the first figure:
+square_area1 = calculate_area(4,4)
 ```
-   For the Second figure,
-   ```js
-   let squareArea2 = functionCall(x,y)
-   ```
 
-   ![img](http://i.imgur.com/VyoJRAL.png)
+![img](http://i.imgur.com/VyoJRAL.png)
 
-
-=======
 # 💡 Hint:
 
+Call the `calculate_area` function 3 times, one per each square, passing the length and edge of each square.
 
-Call the `squareArea` function 3 times, one per each square, passing the length and edge of each square.
+:tv: [9 min video about functions in python](https://www.youtube.com/watch?v=NE97ylAnrz4)
 
-=======
-
-
-
-Click here to learn more about functions: http://www.mathopenref.com/functionsprog.html
