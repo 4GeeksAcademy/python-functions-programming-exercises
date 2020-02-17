@@ -1,14 +1,7 @@
-FROM gitpod/workspace-full
+
+
+FROM gitpod/workspace-full:latest
 
 USER gitpod
 
-# Install custom tools, runtime, etc. using apt-get
-# For example, the command below would install "bastet" - a command line tetris clone:
-#
-# RUN sudo apt-get -q update && \
-#     sudo apt-get install -yq bastet && \
-#     sudo rm -rf /var/lib/apt/lists/*
-#
-# More information: https://www.gitpod.io/docs/config-docker/
-
-RUN npm i breathecode-cli@1.1.97 -g
+RUN pip3 install pytest pytest-testdox mock && npm i breathecode-cli@1.1.98 -g
