@@ -1,14 +1,13 @@
-import io, sys, pytest
+import io, sys, pytest, os, re
+
+@pytest.mark.it("Use the print function")
+def test_output():
+    f = open(os.path.dirname(os.path.abspath(__file__)) + '/app.py')
+    content = f.read()
+    assert content.find("print(") > 0
 
 @pytest.mark.it('3. The printed value on the console should be "red"')
 def test_for_file_output(capsys, app):
-    app.hello()
+    app()
     captured = capsys.readouterr()
-    assert "red!\n" == captured.out
-
-@pytest.mark.it('1. You should create a variable named variables_are_cool')
-def test_variable_exists(app):
-    try:
-        assert app.myVariable == "Helo"
-    except ImportError:
-        raise ImportError("The variable 'myVariable' should exist on app.py")
+    assert "Hello World\n" == captured.out

@@ -6,7 +6,7 @@ Every language has functions to integrate with the console, as it was the only w
 
 This is an example of how to use it:
 ```js
-print("How are you?");
+print("How are you?")
 ```
 
 ## 📝 Instructions:
