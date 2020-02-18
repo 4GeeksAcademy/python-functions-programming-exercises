@@ -59,17 +59,17 @@
             ]
         },
         {
-            "slug": "06-Anonymous-functions",
-            "title": "06-Anonymous-functions",
-            "path": "exercises/06-Anonymous-functions",
+            "slug": "06-lambda-functions",
+            "title": "06-lambda-functions",
+            "path": "exercises/06-lambda-functions",
             "translations": [
                 "us"
             ]
         },
         {
-            "slug": "07-Arrow-Functions",
-            "title": "07-Arrow-Functions",
-            "path": "exercises/07-Arrow-Functions",
+            "slug": "07-lambda-function-two",
+            "title": "07-lambda-function-two",
+            "path": "exercises/07-lambda-function-two",
             "translations": [
                 "us"
             ]
