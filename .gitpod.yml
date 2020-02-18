@@ -3,10 +3,9 @@ image:
 
 ports:
     - port: 3000
-      onOpen: open-prerview
+      onOpen: open-preview
 tasks:
-    - command: >
-        bc run;
+    - command: bc run
 github:
     prebuilds:
         # enable for the master/default branch (defaults to true)
