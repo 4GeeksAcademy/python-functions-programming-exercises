@@ -1,6 +1,6 @@
 # `04` Calling a function  
 
-A function could receive 0 no parameters, and you can it always returns something, event if you don't explicitly add the `return` statement.
+A function could receive 0 parameters, and you can it always returns something, event if you don't explicitly add the `return` statement.
 
 :point_up: [Click here to read more about functions](https://content.breatheco.de/lesson/working-with-functions-python)
 
