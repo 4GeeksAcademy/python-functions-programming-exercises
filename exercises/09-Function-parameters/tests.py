@@ -10,15 +10,10 @@ def test_declare_variable():
 
 
 @pytest.mark.it('The function render_person must exist')
-def test_for_functon_existence(capsys):
-    from app import render_person
+def test_for_functon_existence(capsys, app):
+    assert callable(app.render_person)
 
 @pytest.mark.it('The function render_person must accept 5 parameters')
-def test_for_file_output(capsys):
-    from app import render_person
-    render_person(1,2,3,4,5)
-
-@pytest.mark.it('The function render_person must concatenate in the proper order, params don\'t follow the same order as the output')
-def test_for_function_output(capsys):
-    from app import render_person
-    render_person('a','b','c',4,'d') == "a is a 4 years old d born in b with c eyes"
+def test_for_file_output(capsys, app):
+    assert app.render_person('a','b','c',4,'d') == "a, b, c, 4, d"
+    

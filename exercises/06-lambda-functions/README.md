@@ -1,6 +1,6 @@
 # `06` Lambda functions in Python
 
-An lambda function is a function with just one line of code and no name.
+A lambda function is a function with just one line of code and no name.
 It is a very special type of funcion in the world of python because you can use it as a small utility for very agile coding:
 
 ```python

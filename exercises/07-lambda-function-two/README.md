@@ -10,9 +10,9 @@ print(multy(2,2))
 
 # 📝 Instructions:
 
-1. Create an lambda function called `rapid` it will take one string parameter
+1. Create a lambda function called `rapid` it will take one string parameter
 2. Return the same string but removing the last letter form it
 
 # 💡 Hint
 
-Google how to "remove las letter form string python" (you can use the square brackets)
+Google how to "remove last letter form string python" (you can use the square brackets)

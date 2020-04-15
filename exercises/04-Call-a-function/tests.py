@@ -37,14 +37,14 @@ def test_for_square_area_value1(capsys, app):
 
 @pytest.mark.it('square_area2 needs to have as value the area of the second square')
 def test_for_square_area_value2(capsys, app):
-    assert app.square_area2 == 3
+    assert app.square_area2 == 4
 
 @pytest.mark.it('square_area3 needs to have as value the area of the third square')
 def test_for_square_area_value3(capsys, app):
     assert app.square_area3 == 25
 
 @pytest.mark.it("Create a function calculate_area must be called 3 times, one for each figure")
-def test_declare_variable():
+def test_call_calculate_area():
     path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
     with open(path, 'r') as content_file:
         content = content_file.read()

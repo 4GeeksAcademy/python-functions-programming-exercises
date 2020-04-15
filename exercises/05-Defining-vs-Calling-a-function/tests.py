@@ -8,7 +8,7 @@ def test_declare_variable():
         regex = re.compile(r"def(\s*)multi\(")
         assert bool(regex.search(content)) == True
 
-@pytest.mark.it('The function calculate_area must exist')
+@pytest.mark.it('The function multi must exist')
 def test_for_callable(capsys, app):
     assert callable(app.multi)
 
