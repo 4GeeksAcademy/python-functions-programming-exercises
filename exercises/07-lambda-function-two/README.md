@@ -1,7 +1,7 @@
 # `07` Lambda functions
 
 Take aim and note
-Arrow functions allows a short syntax for writing function expressions.
+Lambda functions allows a short syntax for writing function expressions.
 
 ```python
 multy = lambda x, y: x * y

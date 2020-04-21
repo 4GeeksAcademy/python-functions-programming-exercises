@@ -1,6 +1,6 @@
 # `03` What is a function?
 
-You can see a function as a **fragment of code** encapsulated between curly brackets to be able to use it several times.
+You can see a function as a **fragment of code** we can use  several times.
 
 For example: If we want to get the sum of two numbers, we can declare a function called `sum` that returns the sum of number1 and number2:
 
