@@ -15,5 +15,5 @@ def test_for_functon_existence(capsys, app):
 
 @pytest.mark.it('The function render_person must accept 5 parameters')
 def test_for_file_output(capsys, app):
-    assert app.render_person('a','b','c',4,'d') == "a, b, c, 4, d"
+    assert app.render_person('ax','b','c','d','e') == "ax is a d years old e born in b with c eyes"
     
