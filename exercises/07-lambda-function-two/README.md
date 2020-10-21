@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=1HwmTkQPeMo"
+---
+
 # `07` Lambda functions
 
 Take aim and note
