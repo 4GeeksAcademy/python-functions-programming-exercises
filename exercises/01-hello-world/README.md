@@ -1,3 +1,7 @@
+---
+intro: "https://www.youtube.com/watch?v=awa_yfGgy9s"
+---
+
 # Learn Python Functions!
 
 We are very excited to have you here !! 🎉 😂
