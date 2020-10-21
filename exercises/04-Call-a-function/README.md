@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=NU5iW_bWwmY"
+---
+
 # `04` Calling a function  
 
 A function could receive 0 parameters, and you can it always returns something, event if you don't explicitly add the `return` statement.
