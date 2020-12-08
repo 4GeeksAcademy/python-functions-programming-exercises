@@ -34,6 +34,6 @@ Here is how you would declare it like a normal function
 ```python
 # this function return True if a number is odd.
 def is_odd(num):
-    return (num % 2) == 0:
+    return (num % 2) !== 0:
 ```
  

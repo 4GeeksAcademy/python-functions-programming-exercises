@@ -20,7 +20,7 @@ total = sum(2,3)
 total2 = sum(5,10)
 
 print(total) # prints 5 on the terminal
-print(total2) # prints 10 on the terminal
+print(total2) # prints 15 on the terminal
 ```
 
 # 📝 Instructions
