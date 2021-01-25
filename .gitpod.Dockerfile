@@ -1,3 +1,3 @@
 FROM gitpod/workspace-full:latest
 USER gitpod
-RUN pip3 install pytest==4.4.2 pytest-testdox mock && npm i learnpack -g && learnpack plugins:install learnpack-python
+RUN pip3 install pytest==4.4.2 pytest-testdox mock && npm i -g learnpack
