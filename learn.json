@@ -11,10 +11,7 @@
     "outputPath": "./.learn/dist",
     "publicPath": "/preview",
     "grading": "isolated",
-    "ignoreRegex": null,
-    "webpack_template": null,
     "disable_grading": false,
-    "onCompilerSuccess": null,
     "language": "python3",
     "compiler": "python3",
     "tester": "pytest",
@@ -30,118 +27,5 @@
     "duration": 10,
     "difficulty": "easy",
     "video-solutions": false,
-    "graded": true,
-    "session": 7061439075361449000,
-    "exercises": [
-        {
-            "slug": "01-hello-world",
-            "title": "01-hello-world",
-            "done": false,
-            "path": "exercises/01-hello-world",
-            "translations": [
-                "es",
-                "us"
-            ],
-            "graded": false
-        },
-        {
-            "slug": "02-Hello-World",
-            "title": "02-Hello-World",
-            "done": false,
-            "path": "exercises/02-Hello-World",
-            "translations": [
-                "es",
-                "us"
-            ],
-            "graded": true
-        },
-        {
-            "slug": "03-What-is-a-function",
-            "title": "03-What-is-a-function",
-            "done": false,
-            "path": "exercises/03-What-is-a-function",
-            "translations": [
-                "es",
-                "us"
-            ],
-            "graded": true
-        },
-        {
-            "slug": "04-Call-a-function",
-            "title": "04-Call-a-function",
-            "done": false,
-            "path": "exercises/04-Call-a-function",
-            "translations": [
-                "es",
-                "us"
-            ],
-            "graded": true
-        },
-        {
-            "slug": "05-Defining-vs-Calling-a-function",
-            "title": "05-Defining-vs-Calling-a-function",
-            "done": false,
-            "path": "exercises/05-Defining-vs-Calling-a-function",
-            "translations": [
-                "es",
-                "us"
-            ],
-            "graded": true
-        },
-        {
-            "slug": "06-lambda-functions",
-            "title": "06-lambda-functions",
-            "done": false,
-            "path": "exercises/06-lambda-functions",
-            "translations": [
-                "es",
-                "us"
-            ],
-            "graded": true
-        },
-        {
-            "slug": "07-lambda-function-two",
-            "title": "07-lambda-function-two",
-            "done": false,
-            "path": "exercises/07-lambda-function-two",
-            "translations": [
-                "es",
-                "us"
-            ],
-            "graded": true
-        },
-        {
-            "slug": "08-Function-that-returns",
-            "title": "08-Function-that-returns",
-            "done": false,
-            "path": "exercises/08-Function-that-returns",
-            "translations": [
-                "es",
-                "us"
-            ],
-            "graded": true
-        },
-        {
-            "slug": "09-Function-parameters",
-            "title": "09-Function-parameters",
-            "done": false,
-            "path": "exercises/09-Function-parameters",
-            "translations": [
-                "es",
-                "us"
-            ],
-            "graded": true
-        },
-        {
-            "slug": "10-Array-Methods",
-            "title": "10-Array-Methods",
-            "done": false,
-            "path": "exercises/10-Array-Methods",
-            "translations": [
-                "es",
-                "us"
-            ],
-            "graded": true
-        }
-    ]
+    "graded": true
 }

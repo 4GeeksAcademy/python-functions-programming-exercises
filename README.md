@@ -42,18 +42,23 @@ These exercises were built in collaboration, we need you! If you find any bugs o
 
 ## Local Installation
 
-1) Make sure you have the [breathecode-cli](https://github.com/breatheco-de/breathecode-cli) installed and `node.js` version 10+ and python version 3+. This is the command to install the breathecode-cli
+1) Make sure you have [learnpack](https://learnpack.co) installed, `node.js` version 14+ and python version 3+. This is the command to install learnpack:
 ```
-$ npm i breathecode-cli -g
+$ npm i learnpack -g && learnpack plugins:install learnpack-python
 ```
 
 2) Clone or download this repository. Once you finish downloading, you will find a new folder with a subdirectory "exercises" that contains all the exercises within.
 
+```
+$ git clone https://github.com/4GeeksAcademy/python-functions-programming-exercises.git
+```
+
 3) Start the tutorial/exercises by running the following command from the root of the project:
 
 ```sh
+$ cd python-functions-programming-exercises
 $ pip install pytest==4.4.2 mock pytest-testdox
-$ breathecode run
+$ learnpack start
 ```
 
 ## How are the exercises organized?
