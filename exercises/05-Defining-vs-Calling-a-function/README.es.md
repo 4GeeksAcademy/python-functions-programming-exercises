@@ -17,7 +17,7 @@ Nombres de ejemplo: add_two_integers , calculate_taxes , get_random_number, etc.
 
 **Parámetros:** puedes definir tantos parámetros como desees, más aún, si los necesitas. La cantidad de parámetros dependerá de las operaciones realizadas dentro de la función. Ejemplo: si la función está agregando dos enteros (3 + 4), esto significa que la función necesitará dos parámetros (uno para cada entero).
 
-**Alcance:** Todas las operaciones que realizará la función deben estar dentro de `{` `}` (llaves). Cualquier cosa por fuera, no se considerará como parte de la función. Esto se llama **el alcance** (scope), y podría ser local (dentro de la función) y global (fuera de la función).
+**Ámbito:** Todo el código que contenga la función debe tener una sangría a la derecha, todo lo que esté en una sangría diferente no será considerado como parte de la función, esto se llama **ámbito**, y puede ser local (dentro de la función) y global (fuera de la función).
 
 **El retorno**: no todas las funciones necesitan devolver algo, pero se recomienda que lo haga.
 Consejo: devolviendo `None` es un buen valor por defecto para cuando, aún, no sabes si se necesita devolver algo.
