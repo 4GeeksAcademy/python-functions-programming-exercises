@@ -15,7 +15,7 @@ print(multy(2,2))
 # 📝 Instructions:
 
 1. Create a lambda function called `rapid` it will take one string parameter
-2. Return the same string but removing the last letter form it
+2. Return the same string with the last letter removed.
 
 # 💡 Hint
 
