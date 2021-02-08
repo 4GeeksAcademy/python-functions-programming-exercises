@@ -4,8 +4,9 @@ tutorial: "https://www.youtube.com/watch?v=-tqNmngh1PE"
 
 # `08` Functions that return
 
+It is very good practice that all functions return something, even if it is `None`. With your function returns, you can create algorithms that use multiple functions at the same time.
 
-Is a very good practice that all functions return something, even if it is `None` if your functions return something you can then create algorithms that use several functions at the same time. For example, in this particular case we have two functions available:
+For example, in this particular case we have two functions available:
 
 ```md
 dollar_to_euro: that calculates the value in euros of a given value in dollars.
