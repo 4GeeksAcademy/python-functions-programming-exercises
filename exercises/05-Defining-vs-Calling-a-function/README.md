@@ -4,7 +4,7 @@ tutorial: "https://www.youtube.com/watch?v=fz4ttmwZWuc"
 
 # `05` Defining vs Calling a function
 
-Functions will only exists if you or somebody else defines them... is the only way the language compiler/interpreter knows they exist, therefore is able to run them when you call them.
+Functions will only exists if you or somebody else defines them... it is the only way the language compiler/interpreter knows they exist, therefore it's able to run them when you call them.
 
 To define a function we need to write this basic code formula:
 
@@ -34,7 +34,7 @@ this is called **the scope**, and it could be local (inside the function)
 and global (outside of the function).
 
 **The Return**: not every function needs to return something, but it is recommended that it does.
-Tip: returning `None` is a good default for when you, still, doesn't know if you need to return something.
+Tip: returning `None` is a good default for when you, still, don't know if you need to return something.
 
 Example of a function:
 
