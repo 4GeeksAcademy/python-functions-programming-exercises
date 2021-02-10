@@ -40,27 +40,32 @@ These exercises were built in collaboration, we need you! If you find any bugs o
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/python-functions-programming-exercises.git)
 
 
-## Local Installation
+## Manual installation
 
-1) Make sure you have [learnpack](https://learnpack.co) installed, `node.js` version 14+ and python version 3+. This is the command to install learnpack:
-```
-$ npm i learnpack -g && learnpack plugins:install learnpack-python
-```
-
-2) Clone or download this repository. Once you finish downloading, you will find a new folder with a subdirectory "exercises" that contains all the exercises within.
-
-```
-$ git clone https://github.com/4GeeksAcademy/python-functions-programming-exercises.git
-```
-
-3) Start the tutorial/exercises by running the following command from the root of the project:
+1. Install learnpack, the package manager for learning tutorials and the html compiler plugin for learnpack, make sure you also have node.js 12+:
 
 ```sh
-$ cd python-functions-programming-exercises
-$ pip install pytest==4.4.2 mock pytest-testdox
+$ npm i learnpack -g
+$ learnpack plugins:install learnpack-html
+```
+
+2. Download this particular exercises using learnpack and `cd` into the folder:
+
+```sh
+$ learnpack download python-functions-programming-exercises
+$  cd python-functions-programming-exercises
+```
+
+Note: Once you finish downloading, you will find a "exercises" folder that contains all the exercises within.
+
+3. Start the tutorial/exercises by running the following command at the same level were your bc.json file is:
+
+```sh
+$ npm i jest@24.8.0 -g
 $ learnpack start
 ```
 
+Node: The xercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated.
 ## How are the exercises organized?
 
 Each exercise is a small react application containing the following files:
