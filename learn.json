@@ -1,25 +1,4 @@
 {
-    "port": 3000,
-    "address": "https://a59821c5-aefc-458f-84bb-510905bccbff.ws-us03.gitpod.io",
-    "editor": "gitpod",
-    "configPath": {
-        "config": "bc.json",
-        "base": ".learn",
-        "exercises": "./exercises",
-        "output": ".learn/dist"
-    },
-    "outputPath": "./.learn/dist",
-    "publicPath": "/preview",
-    "grading": "isolated",
-    "disable_grading": false,
-    "language": "python3",
-    "compiler": "python3",
-    "tester": "pytest",
-    "actions": [
-        "run",
-        "test",
-        "reset"
-    ],
     "title": "Learn Python Functions Interactively",
     "repository": "https://github.com/4GeeksAcademy/python-functions-programming-exercises",
     "preview": "https://github.com/4GeeksAcademy/python-functions-programming-exercises/blob/master/preview.gif?raw=true",
@@ -27,5 +6,10 @@
     "duration": 10,
     "difficulty": "easy",
     "video-solutions": false,
-    "graded": true
+    "graded": true,
+    "config": {
+        "editor": {
+            "version": "1.0.68"
+        }
+    }
 }
