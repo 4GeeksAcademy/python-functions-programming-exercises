@@ -11,7 +11,7 @@ print("How are you?")
 
 ## 📝 Instrucciones:
 
-Usa la función `print()` para escribir "Hello World!" en la consola. Siéntete libre de intentar otras cosas también.
+Usa la función `print()` para escribir "Hello World" en la consola. Siéntete libre de intentar otras cosas también.
 
 ## 💡 Ayuda:
 
