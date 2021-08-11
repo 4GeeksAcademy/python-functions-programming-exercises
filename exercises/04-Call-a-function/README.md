@@ -23,14 +23,15 @@ edge = 6
 ```
 
 You need to do something like this:
+
 ```python
 area = calculate_area(3,6)
 # The value of area will be set to 18
 ```
 
-# 📝 Instructions:
+## 📝 Instructions:
 
-Create a new variables named square_area1, square_area2, square_area3 and call the function calculate_area three times one for each square in the picture, for example: 
+1. Create a new variables named `square_area1`, `square_area2`, `square_area3` and call the function `calculate_area` three times one for each square in the picture, for example: 
 
 ```python
 # For the first figure:
@@ -39,9 +40,9 @@ square_area1 = calculate_area(4,4)
 
 ![img](http://i.imgur.com/VyoJRAL.png)
 
-# 💡 Hint:
+## 💡 Hint:
 
-Call the `calculate_area` function three times, one per each square, passing the length and edge of each square.
++ Call the `calculate_area` function three times, one per each square, passing the length and edge of each square.
 
-:tv: [9 min video about functions in python](https://www.youtube.com/watch?v=NE97ylAnrz4)
++ :video_camera: [9 min video about functions in python](https://www.youtube.com/watch?v=NE97ylAnrz4)
 

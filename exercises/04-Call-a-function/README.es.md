@@ -2,7 +2,7 @@
 
 Una función podría recibir 0 parámetros y tú puedes devolver algo siempre, incluso si no añades explícitamente el `return`.
 
-:point_up: [Presiona aquí para saber más sobre funciones](https://content.breatheco.de/lesson/working-with-functions-python)
+:point_up: [Presiona aquí para saber más sobre funciones](https://content.breatheco.de/es/lesson/working-with-functions-python/)
 
 Por ejemplo, una función que calcula el área de un cuadrado sería algo como esto:
 
@@ -18,25 +18,29 @@ length = 3
 edge = 6
 ```
 
-Necesitas hacer algo como esto:
+Tendrías que hacer algo como esto:
+
 ```python
 area = calculate_area(3,6)
-# The value of area will be set to 18
+# El valor del área es 18
 ```
 
-# 📝 Instrucciones:
+## 📝 Instrucciones:
 
-Crea una nueva variable llamada squareArea para cada nueva iteración de la función CalculateArea utilizando las dimensiones de la figura, por ejemplo, para la primera figura,
+
+1. Create a new variable named `square_area1`, `square_area2`, `square_area3` and call the function `calculate_area` three times one for each square in the picture, for example: 
+
+1. Crea nuevas variables llamadas `squareArea1`, `square_area2`, `square_area3` y llama a la función `CalculateArea` 3 veces, un por cada cuadrador en la foto, utilizando las dimensiones de la figura, por ejemplo:
 
 ```python
-# For the first figure:
+# para la primera figura:
 square_area1 = calculate_area(4,4)
 ```
 
 ![img](http://i.imgur.com/VyoJRAL.png)
 
-# 💡 Sugerencia:
+## 💡 Pista:
 
 - Llama 3 veces a la función `calculate_area`, una por cada cuadrado, pasando la longitud y el borde de cada cuadrado.
 
-:tv: [Video de 9 min sobre funciones en Python](https://www.youtube.com/watch?v=NE97ylAnrz4)
++ :video_camera: [Video de 9 min sobre funciones en Python](https://www.youtube.com/watch?v=NE97ylAnrz4)

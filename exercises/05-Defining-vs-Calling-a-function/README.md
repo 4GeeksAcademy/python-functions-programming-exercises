@@ -47,10 +47,12 @@ def concatenate_number_to_string(local_number, local_string):
 
 # 📝 Instructions:
 
-1. Define a function called "multi".
-2. Multi function receive two numbers
+1. Define a function called `multi`.
+
+2.  The `multi` function receives two numbers.
+
 3. Return the result of the multiplication between them.
 
-# 💡 Hint
+## 💡 Hint
 
-Remember to add the "return" line, every function must return something, in this case it should be the result of the multiplication.
++ Remember to add the `return` line. Every function should return something, in this case it should be the result of the multiplication.
