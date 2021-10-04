@@ -12,7 +12,7 @@ def test_declare_variable():
 def test_for_callable(capsys):
     from app import rapid
 
-@pytest.mark.it('The function rapid must receive one string and return the same but without the last letter and uppercase')
+@pytest.mark.it('The function rapid must receive one string and return the same but without the last letter (make sure it\'s lowecase)')
 def test_for_integer(capsys):
     from app import rapid
     assert rapid("maria") == "mari"
