@@ -5,15 +5,20 @@ intro: "https://www.youtube.com/watch?v=awa_yfGgy9s"
 # Learn Python Functions!
 
 We are very excited to have you here !! 🎉 😂
+
 Click `next` on the top right of this instructions when you are ready to start.
 
 During this course you will be learning the following concepts:
 
-1. Learning how to create and call Functions.
-2. Building your first real functions
-3. Get comfortable using Python Lambda Functions
-4. Construct Functions with parameters.
-5. Real life examples for functions
+1. Learning how to create and call **functions.***
+
+2. Building your first real **functions**
+
+3. Get comfortable using Python **Lambda Functions**
+
+4. Construct **functions** with parameters.
+
+5. Real life examples for **functions**
 
 ## Contributors
 

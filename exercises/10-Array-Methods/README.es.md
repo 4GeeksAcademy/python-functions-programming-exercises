@@ -1,13 +1,13 @@
 # `10` Métodos de listas
 
-# 📝 Instrucciones:
+## 📝 Instrucciones:
 
-- Escribe una función llamada sort_names que dada una lista de nombres, los devuelva en orden alfabético.
+1. Escribe una función llamada `sort_names` que dada una lista de nombres, los devuelva en orden alfabético.
 
-# 💡 Pista
+## 💡 Pista:
 
-- Cada lista viene con funciones predeterminadas que permiten la ordenación, ¡úsalas dentro de tu función!
+- Cada lista viene con funciones predeterminadas que permiten ordenarla ¡úsalas dentro de tu función!
 
-¿Atrapado en el ordenamiento? Lee la página de W3 Schools sobre ordenar los listas:
++ ¿Atrapado en el orden? Lee esta página sobre cómo ordenar listas:
 
-https://www.w3schools.com/python/ref_list_sort.asp
+https://www.freecodecamp.org/espanol/news/python-ordenar-lista-con-sort-ascendente-y-descendente-explicado-con-ejemplos/

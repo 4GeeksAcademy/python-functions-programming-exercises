@@ -1,15 +1,20 @@
 # Aprende Funciones en Python!
 
 ¡¡Nos estusiasma mucho tenerte aquí!! 🎉 😂
-Presiona `Next` `Next →` de arriba a la derecha cuando quieras empezar.
+
+Presiona `Next →` en la esquina superior derecha cuando quieras empezar.
 
 En este curso aprenderás los siguientes conceptos:
 
-1. Cómo crear y llamar Funciones.
-2. Construir tus primeras funciones reales
-3. Sentirte cómod@ usando Funciones Lambda en Python
-4. Construir Funciones con parametros.
-5. Ejemplos de la vida real con funciones
+1. Cómo crear y llamar **funciones.**
+
+2. Construir tus primeras **funciones.** 
+
+3. Sentirte cómod@ usando **funciones Lambda** en Python.
+
+4. Construir **funciones** con parámetros.
+
+5. Ejemplos de la vida real con **funciones**
 
 ## Contributors
 
