@@ -49,7 +49,7 @@ def concatenate_number_to_string(local_number, local_string):
 
 1. Define a function called `multi`.
 
-2.  The `multi` function receives two numbers.
+2. The `multi` function receives two numbers.
 
 3. Return the result of the multiplication between them.
 
