@@ -37,9 +37,9 @@ multiply = lambda p1,p2: p1 * p2
 
 + Here is how you would declare it like a normal function:
 
-```python
+```py
 # this function return True if a number is odd.
 def is_odd(num):
-    return (num % 2) !== 0:
+    return (num % 2) != 0:
 ```
- 
+
