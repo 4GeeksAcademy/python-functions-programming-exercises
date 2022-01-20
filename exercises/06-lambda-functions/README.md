@@ -40,6 +40,6 @@ multiply = lambda p1,p2: p1 * p2
 ```py
 # this function return True if a number is odd.
 def is_odd(num):
-    return (num % 2) != 0:
+    return num % 2 != 0
 ```
 
