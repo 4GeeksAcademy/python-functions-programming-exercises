@@ -1,5 +1,6 @@
 {
     "title": "Learn Python Functions Interactively",
+    "slug": "python-function-exercises",
     "repository": "https://github.com/4GeeksAcademy/python-functions-programming-exercises",
     "preview": "https://github.com/4GeeksAcademy/python-functions-programming-exercises/blob/master/preview.gif?raw=true",
     "description": "Learn and master functional programing by doing auto-graded interactive exercises.",
