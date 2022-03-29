@@ -35,7 +35,7 @@ These exercises were built in collaboration, we need you! If you find any bugs o
   <a href="https://www.youtube.com/watch?v=GjQEotj3t6Y&list=PLCVs_S8Skwp9_apbj_ls2euakDALiWqSN"><img src="https://github.com/4GeeksAcademy/python-beginner-programming-exercises/blob/master/python-intro.gif?raw=true"></a>
 </p>
 
-<h2>One click installation:</h2>
+## One click installation:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/python-functions-programming-exercises.git)
 
@@ -44,6 +44,7 @@ These exercises were built in collaboration, we need you! If you find any bugs o
 
 1) Make sure you have [learnpack](https://learnpack.co) installed, `node.js` version 14+ and python version 3+. This is the command to install learnpack:
 ```
+
 $ npm i learnpack -g && learnpack plugins:install learnpack-python
 ```
 
@@ -73,10 +74,11 @@ Each exercise is a small react application containing the following files:
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
-1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) :computer: (idea) 🤔, (build-tests) :warning:, (pull-request-review) :eyes: (build-tutorial) :white_check_mark: (documentation) :book:
-2. [Paolo (plucodev)](https://github.com/plucodev), contribution: (bug reports) :bug:, contribution: (coder), (translation) :earth_americas:
-3. [Marco Gómez (marcogonzalo)](https://github.com/marcogonzalo), contribution: (bug reports) :bug:, (translation) :earth_africa:
+1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) 💻  (idea) 🤔, (build-tests) ⚠️ , (pull-request-review) 👀 (build-tutorial) ✅ (documentation) 📖
 
-This project follows the
-[all-contributors](https://github.com/kentcdodds/all-contributors)
-specification. Contributions of any kind are welcome!
+2. [Paolo (plucodev)](https://github.com/plucodev), contribution: (bug reports) 🐛, contribution: (coder), (translation) 🌎
+
+3. [Marco Gómez (marcogonzalo)](https://github.com/marcogonzalo), contribution: (bug reports) :🐛, (translation) 🌎
+
+
+This project follows the[all-contributors](https://github.com/kentcdodds/all-contributors) specification.Contributions of any kind are welcome!
