@@ -62,6 +62,8 @@ $ pip install pytest==4.4.2 mock pytest-testdox
 $ learnpack start
 ```
 
+Note: The exercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated.
+
 ## How are the exercises organized?
 
 Each exercise is a small react application containing the following files:

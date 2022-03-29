@@ -73,6 +73,8 @@ $ pip install pytest==4.4.2 mock pytest-testdox
 $ learnpack start
 ```
 
+Nota: Estos ejercicios tienen calificación automática pero es un tanto rígida, te recomiendo ignorar los tests, considéralos como una recomendación o podrías frustrarte.
+
 ## ¿Cómo están organizados los ejercicios?
 
 Cada ejercicio es un pequeño proyecto en Python que contiene los siguientes archivos:
