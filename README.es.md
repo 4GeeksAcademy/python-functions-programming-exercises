@@ -51,8 +51,7 @@ Estos ejercicios son colaborativos, ¡te necesitamos! Si encuentras algún error
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/python-functions-programming-exercises.git)
 
-
-## Local Installation
+## Instalación local:
 
 1) Asegúrate de instalar [learnpack](https://learnpack.co), `node.js` version 14+ y python version 3+. Este es el comando para instalar learnpack:
 
