@@ -1,9 +1,8 @@
 <table>
   <tr>
-    <td><img src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,32"></td>
     <td>
-      <h1> 🐍 Python Funtions Tutorial and Exercises</h1>
-      <p>By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors">other contributors</a> at <a href="http://4geeksacademy.co/">4Geeks Academy</a><a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/python-lists-loops-programming-exercises/master/python-lp-badge.png"></a></p>
+      <h1> 🐍 Python Functions Tutorial and Exercises</h1>
+      <p>By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors">other contributors</a> at <a href="http://4geeksacademy.co/">4Geeks Academy</a></p>
       <img src="https://img.shields.io/github/last-commit/4geeksacademy/python-functions-programming-exercises" />
       <a href="https://breatheco.de"><img src="https://img.shields.io/badge/certified-BreatheCode-blue" /></a>
       <a href="https://twitter.com/alesanchezr"><img src="https://img.shields.io/twitter/follow/alesanchezr?style=social&logo=twitter" alt="follow on Twitter"></a>
@@ -12,7 +11,33 @@
   </tr>
 </table>
 
-Learn and practice Python Functions: Declaring a functoin, Calling a function, function scopes, nest functions, function recursivity and many other functional concepts. The entire tutorial is 👆 interactive, ✅ auto-graded and with. 📹 video tutorials.
+
+</table>
+<table>
+  <tr>
+    <td>  
+      <p>
+Learn and practice Python Functions. You will see the folowing concepts:
+
+1. Declaring a function.
+
+2. Calling a function.
+
+3. Function scopes. 
+
+4. Nest functions.
+
+5. Function recursivity, and many other functional concepts. 
+
+The entire tutorial is 👆 interactive, ✅ auto-graded and with. 📹 video tutorials.
+      </p>
+    </td>
+    <td>  
+      <a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/python-lists-loops-programming-exercises/master/python-lp-badge.png"></a>
+    </td>
+  </tr>
+</table>   
+
 
 <h3>📚 Table of contents:</h3>
 <table>
@@ -29,7 +54,7 @@ Learn and practice Python Functions: Declaring a functoin, Calling a function, f
   <tr><td>6. What next? <a href="https://github.com/4GeeksAcademy/About-4Geeks-Academy/issues/new">Request a new tutorial</a> or <a href="https://github.com/4GeeksAcademy/About-4Geeks-Academy/labels/help%20wanted">collaborate</a>.<br /> We will feature your profile in our list of contributors</td></tr>
 </table>
 
-These exercises were built in collaboration, we need you! If you find any bugs or misspells plese contribute and report them.
+These exercises were built in collaboration, we need you! If you find any bugs or misspells please contribute and report them.
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=GjQEotj3t6Y&list=PLCVs_S8Skwp9_apbj_ls2euakDALiWqSN"><img src="https://github.com/4GeeksAcademy/python-beginner-programming-exercises/blob/master/python-intro.gif?raw=true"></a>
@@ -43,8 +68,8 @@ These exercises were built in collaboration, we need you! If you find any bugs o
 ## Local Installation
 
 1) Make sure you have [learnpack](https://learnpack.co) installed, `node.js` version 14+ and python version 3+. This is the command to install learnpack:
-```
 
+```
 $ npm i learnpack -g && learnpack plugins:install learnpack-python
 ```
 
@@ -74,7 +99,7 @@ Each exercise is a small react application containing the following files:
 
 ## Contributors
 
-Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
+Thanks to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) 💻  (idea) 🤔, (build-tests) ⚠️ , (pull-request-review) 👀 (build-tutorial) ✅ (documentation) 📖
 
@@ -83,4 +108,6 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 3. [Marco Gómez (marcogonzalo)](https://github.com/marcogonzalo), contribution: (bug reports) :🐛, (translation) 🌎
 
 
-This project follows the[all-contributors](https://github.com/kentcdodds/all-contributors) specification.Contributions of any kind are welcome!
+This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification.
+
+Contributions of any kind are welcome!

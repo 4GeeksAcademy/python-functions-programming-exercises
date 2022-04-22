@@ -1,11 +1,10 @@
-<a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/python-lists-loops-programming-exercises/master/python-lp-badge.png"></a>
+
 
 <table>
   <tr>
-    <td><img src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,32"></td>
     <td>
-      <h1> 🐍 Turorial y Ejercicioa sobre Funciones de Python</h1>
-      <p>Por <a href="https://twitter.com/alesanchezr">@alesanchezr</a> y <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors">otros colaboradores</a> at <a href="http://4geeksacademy.co/">4Geeks Academy</a><a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/python-lists-loops-programming-exercises/master/python-lp-badge.png"></a></p>
+      <h1> 🐍 Turorial y Ejercicios sobre Funciones de Python</h1>
+      <p>Por <a href="https://twitter.com/alesanchezr">@alesanchezr</a> y <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors">otros colaboradores</a> at <a href="http://4geeksacademy.co/">4Geeks Academy</a></p>
       <img src="https://img.shields.io/github/last-commit/4geeksacademy/python-functions-programming-exercises" />
       <a href="https://breatheco.de"><img src="https://img.shields.io/badge/certified-BreatheCode-blue" /></a>
       <a href="https://twitter.com/alesanchezr"><img src="https://img.shields.io/twitter/follow/alesanchezr?style=social&logo=twitter" alt="follow on Twitter"></a>
@@ -13,20 +12,32 @@
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>  
+      <p>
+Aprende y practica las funciones de Python. Vas a ver los siguientes conceptos:
 
-Aprende y practica las funciones de Python. Aprenderás los siguientes conceptos:
+1. Declarar una función. 
 
-1. Declarar una función, 
+2. Llamar a una función. 
 
-2. llamar a una función, 
+3. Alcances de funciones. 
 
-3. alcances de funciones, 
+4. Funciones añadidas.
 
-4. funciones anidadad
-
-5. recursividad de funciones y muchos otros conceptos funcionales. 
+5. Recursividad de funciones y muchos otros conceptos funcionales. 
 
 Todo el tutorial es 👆 interactivo, ✅ calificado automáticamente y con. 📹 videos tutoriales.
+      </p>
+    </td>
+    <td>  
+      <a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/python-lists-loops-programming-exercises/master/python-lp-badge.png"></a>
+    </td>
+  </tr>
+</table>   
+
+
 
 <h3>📚 Tabla de contenidos</h3>
 <table>
@@ -49,7 +60,7 @@ Estos ejercicios son colaborativos, ¡te necesitamos! Si encuentras algún error
   <a href="https://www.youtube.com/watch?v=GjQEotj3t6Y&list=PLCVs_S8Skwp9_apbj_ls2euakDALiWqSN"><img src="https://github.com/4GeeksAcademy/python-beginner-programming-exercises/blob/master/python-intro.gif?raw=true"></a>
 </p>
 
-## Instalación en un clic:
+## Instalación en un clic:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/python-functions-programming-exercises.git)
 
@@ -93,6 +104,8 @@ Gracias a estas personas maravillosas ([emoji key](https://github.com/kentcdodds
 
 2. [Paolo (plucodev)](https://github.com/plucodev), contribución: (bug reports) 🐛, (programador), (traducción) 🌎
 
-3. [Marco Gómez (marcogonzalo)](https://github.com/marcogonzalo), contribution: (bug reports) 🐛, (translation) 🌎
+3. [Marco Gómez (marcogonzalo)](https://github.com/marcogonzalo), contribution: (bug reports) 🐛, (traducción) 🌎
 
-Este proyecto sigue la especificación [all-contributors](https://github.com/kentcdodds/all-contributors). ¡Todas las contribuciones son bienvenidas!
+Este proyecto sigue la especificación [all-contributors](https://github.com/kentcdodds/all-contributors).
+
+ ¡Todas las contribuciones son bienvenidas!
