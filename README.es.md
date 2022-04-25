@@ -1,18 +1,9 @@
-<a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/python-lists-loops-programming-exercises/master/python-lp-badge.png"></a>
+<!-- hide -->
+# 🐍 Turorial y Ejercicioa sobre Funciones de Python</h1>
 
-<table>
-  <tr>
-    <td><img src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,32"></td>
-    <td>
-      <h1> 🐍 Turorial y Ejercicioa sobre Funciones de Python</h1>
-      <p>Por <a href="https://twitter.com/alesanchezr">@alesanchezr</a> y <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors">otros colaboradores</a> at <a href="http://4geeksacademy.co/">4Geeks Academy</a><a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/python-lists-loops-programming-exercises/master/python-lp-badge.png"></a></p>
-      <img src="https://img.shields.io/github/last-commit/4geeksacademy/python-functions-programming-exercises" />
-      <a href="https://breatheco.de"><img src="https://img.shields.io/badge/certified-BreatheCode-blue" /></a>
-      <a href="https://twitter.com/alesanchezr"><img src="https://img.shields.io/twitter/follow/alesanchezr?style=social&logo=twitter" alt="follow on Twitter"></a>
-      <a href="https://gitpod.io#https://github.com/4GeeksAcademy/python-functions-programming-exercises.git"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod" /></a>
-    </td>
-  </tr>
-</table>
+<p>Por <a href="https://twitter.com/alesanchezr">@alesanchezr</a> y <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors">otros colaboradores</a> at <a href="http://4geeksacademy.co/">4Geeks Academy</a><a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/python-lists-loops-programming-exercises/master/python-lp-badge.png"></a>
+  
+<!-- endhide -->
 
 Aprende y practica las funciones de Python. Aprenderás los siguientes conceptos:
 
@@ -28,6 +19,7 @@ Aprende y practica las funciones de Python. Aprenderás los siguientes conceptos
 
 Todo el tutorial es 👆 interactivo, ✅ calificado automáticamente y con. 📹 videos tutoriales.
 
+<!-- hide -->
 <h3>📚 Tabla de contenidos</h3>
 <table>
   <tr>
@@ -76,6 +68,8 @@ $ learnpack start
 ```
 
 Nota: Estos ejercicios tienen calificación automática pero es un tanto rígida, te recomiendo ignorar los tests, considéralos como una recomendación o podrías frustrarte.
+
+<!-- endhide -->
 
 ## ¿Cómo están organizados los ejercicios?
 
