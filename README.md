@@ -5,11 +5,11 @@ By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https
 <!-- endhide -->
 Learn and practice Python Functions: 
 
-- Declaring a functoin, 
-- Calling a function
-- Function scopes
-- Nested functions, 
-- Recursivity
+- Declaring a function.  
+- Calling a function.  
+- Function scopes.  
+- Nested functions.  
+- Recursivity.  
 
 Note: The entire tutorial is 👆 interactive, ✅ auto-graded and with. 📹 video tutorials.
 
