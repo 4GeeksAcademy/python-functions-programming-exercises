@@ -16,13 +16,6 @@
       <p>
 Aprende y practica las funciones de Python. Vas a ver los siguientes conceptos:
 
-<!-- hide -->
-# 🐍 Turorial y Ejercicioa sobre Funciones de Python</h1>
-
-<p>Por <a href="https://twitter.com/alesanchezr">@alesanchezr</a> y <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors">otros colaboradores</a> at <a href="http://4geeksacademy.co/">4Geeks Academy</a>
-  
-<!-- endhide -->
-
 1. Declarar una función. 
 
 2. Llamar a una función. 
