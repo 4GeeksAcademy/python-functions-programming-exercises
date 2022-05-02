@@ -1,5 +1,3 @@
-
-
 <table>
   <tr>
     <td>
@@ -17,6 +15,13 @@
     <td>  
       <p>
 Aprende y practica las funciones de Python. Vas a ver los siguientes conceptos:
+
+<!-- hide -->
+# 🐍 Turorial y Ejercicioa sobre Funciones de Python</h1>
+
+<p>Por <a href="https://twitter.com/alesanchezr">@alesanchezr</a> y <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors">otros colaboradores</a> at <a href="http://4geeksacademy.co/">4Geeks Academy</a><a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/python-lists-loops-programming-exercises/master/python-lp-badge.png"></a>
+  
+<!-- endhide -->
 
 1. Declarar una función. 
 
@@ -37,22 +42,7 @@ Todo el tutorial es 👆 interactivo, ✅ calificado automáticamente y con. �
   </tr>
 </table>   
 
-
-
-<h3>📚 Tabla de contenidos</h3>
-<table>
-  <tr>
-    <td>1. <a href="https://github.com/4GeeksAcademy/python-beginner-programming-exercises">Python para Principiantes</a> </td>
-  </tr>
-  <tr color="white"><td>2. <a href="https://github.com/4GeeksAcademy/python-lists-loops-programming-exercises">Practica Loops en Listas y Tuplas</a></td></tr>
-  <tr><td>3. <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises">Practica funciones</a></td>
-<td>← 🔥 estás aquí</td>
-    <td><a href="https://gitpod.io#https://github.com/4GeeksAcademy/python-functions-programming-exercises.git"><img src="https://gitpod.io/button/open-in-gitpod.svg" /></a></td>
-  </tr>
-  <tr><td>4. <a href="https://github.com/4GeeksAcademy/master-python-programming-exercises">Master Python (intermediate)</a></td></tr>
-  <tr><td>5. <a href="https://github.com/4GeeksAcademy/python-http-requests-api-tutorial-exercises">Python API Requests</a></td></tr>
-  <tr><td>6.¿Qué sigue? <a href="https://github.com/4GeeksAcademy/About-4Geeks-Academy/issues/new">Solicita un nuevo tutorial</a> o <a href="https://github.com/4GeeksAcademy/About-4Geeks-Academy/labels/help%20wanted">colabora</a>.<br /> Añadiremos tu perfil a nuestra lista de colaboradores</td></tr>
-</table>
+<!-- hide -->
 
 Estos ejercicios son colaborativos, ¡te necesitamos! Si encuentras algún error o falta de ortografía, por favor contribuye y repórtalo.
 
@@ -88,6 +78,8 @@ $ learnpack start
 
 Nota: Estos ejercicios tienen calificación automática pero es un tanto rígida, te recomiendo ignorar los tests, considéralos como una recomendación o podrías frustrarte.
 
+<!-- endhide -->
+
 ## ¿Cómo están organizados los ejercicios?
 
 Cada ejercicio es un pequeño proyecto en Python que contiene los siguientes archivos:
@@ -108,4 +100,6 @@ Gracias a estas personas maravillosas ([emoji key](https://github.com/kentcdodds
 
 Este proyecto sigue la especificación [all-contributors](https://github.com/kentcdodds/all-contributors).
 
- ¡Todas las contribuciones son bienvenidas!
+¡Todas las contribuciones son bienvenidas!
+
+Este proyecto sigue la especificación [all-contributors](https://github.com/kentcdodds/all-contributors). ¡Todas las contribuciones son bienvenidas!

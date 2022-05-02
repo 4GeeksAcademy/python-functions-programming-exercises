@@ -11,7 +11,6 @@
   </tr>
 </table>
 
-
 </table>
 <table>
   <tr>
@@ -56,6 +55,7 @@ The entire tutorial is 👆 interactive, ✅ auto-graded and with. 📹 video tu
 
 These exercises were built in collaboration, we need you! If you find any bugs or misspells please contribute and report them.
 
+<!-- hide -->
 <p align="center">
   <a href="https://www.youtube.com/watch?v=GjQEotj3t6Y&list=PLCVs_S8Skwp9_apbj_ls2euakDALiWqSN"><img src="https://github.com/4GeeksAcademy/python-beginner-programming-exercises/blob/master/python-intro.gif?raw=true"></a>
 </p>
@@ -89,6 +89,7 @@ $ learnpack start
 
 Note: The exercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated.
 
+<!-- endhide -->
 ## How are the exercises organized?
 
 Each exercise is a small react application containing the following files:
