@@ -4,7 +4,7 @@ import io, sys, pytest, os, re
 def test_output():
     f = open(os.path.dirname(os.path.abspath(__file__)) + '/app.py')
     content = f.read()
-    assert content.find("print(") > 0
+    assert content.find("print(") >= 0
 
 @pytest.mark.it('The printed value on the console should be "Hello World"')
 def test_for_file_output(capsys, app):
