@@ -1,7 +1,6 @@
 # Define the function called "multi" that expects 2 parameters:
 def multi(num1 , num2):
     total = num1 * num2
-    print(total)
     return total
 
 
