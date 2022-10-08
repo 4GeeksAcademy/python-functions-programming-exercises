@@ -7,6 +7,7 @@
     "duration": 10,
     "difficulty": "easy",
     "video-solutions": false,
+    "bugs-link": "https://github.com/learnpack/learnpack/issues/new",
     "graded": true,
     
         "editor": {
