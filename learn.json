@@ -6,7 +6,8 @@
     "description": "Learn and master functional programing by doing auto-graded interactive exercises.",
     "duration": 10,
     "difficulty": "easy",
-    "video-solutions": false,
+    "videoSolutions": true,
+    "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
     "graded": true,
     
         "editor": {
