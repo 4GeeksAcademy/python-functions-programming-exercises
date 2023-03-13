@@ -1,19 +1,9 @@
-<table>
-  <tr>
-    <td>
-      <h1> 🐍 Turorial y Ejercicios sobre Funciones de Python</h1>
-      <p>Por <a href="https://twitter.com/alesanchezr">@alesanchezr</a> y <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors">otros colaboradores</a> at <a href="http://4geeksacademy.co/">4Geeks Academy</a></p>
-      <img src="https://img.shields.io/github/last-commit/4geeksacademy/python-functions-programming-exercises" />
-      <a href="https://breatheco.de"><img src="https://img.shields.io/badge/certified-BreatheCode-blue" /></a>
-      <a href="https://twitter.com/alesanchezr"><img src="https://img.shields.io/twitter/follow/alesanchezr?style=social&logo=twitter" alt="follow on Twitter"></a>
-      <a href="https://gitpod.io#https://github.com/4GeeksAcademy/python-functions-programming-exercises.git"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod" /></a>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td>  
-      <p>
+<!-- hide -->
+# 🐍 Turorial y Ejercicios sobre Funciones de Python</h1>
+Creado por <a href="https://twitter.com/alesanchezr">@alesanchezr</a> y <a href="https://github.com/4GeeksAcademy/python-functions-programming-exercises/graphs/contributors">othors contribuyentes</a> en <a href="http://4geeksacademy.com/">4Geeks Academy</a>
+
+<a href="https://4geeks.com/interactive-exercise/python-function-exercises"><img height="280" align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/python-lists-loops-programming-exercises/master/python-lp-badge.png"></a>
+<!-- endhide -->
 Aprende y practica las funciones de Python. Vas a ver los siguientes conceptos:
 
 1. Declarar una función. 
@@ -27,15 +17,6 @@ Aprende y practica las funciones de Python. Vas a ver los siguientes conceptos:
 5. Recursividad de funciones y muchos otros conceptos funcionales. 
 
 Todo el tutorial es 👆 interactivo, ✅ calificado automáticamente y con. 📹 videos tutoriales.
-      </p>
-    </td>
-    <td>  
-      <a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/python-lists-loops-programming-exercises/master/python-lp-badge.png"></a>
-    </td>
-  </tr>
-</table>   
-
-<!-- hide -->
 
 Estos ejercicios son colaborativos, ¡te necesitamos! Si encuentras algún error o falta de ortografía, por favor contribuye y repórtalo.
 
@@ -43,9 +24,11 @@ Estos ejercicios son colaborativos, ¡te necesitamos! Si encuentras algún error
   <a href="https://www.youtube.com/watch?v=GjQEotj3t6Y&list=PLCVs_S8Skwp9_apbj_ls2euakDALiWqSN"><img src="https://github.com/4GeeksAcademy/python-beginner-programming-exercises/blob/master/python-intro.gif?raw=true"></a>
 </p>
 
+<!-- hide -->
+
 ## Instalación en un clic:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/python-functions-programming-exercises.git)
+Haz clic en los siguientes enlaces para abrir este tutorial inmediatamente en [Codespaces](https://codespaces.new/?repo=4GeeksAcademy/python-functions-programming-exercises) o [Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/python-functions-programming-exercises.git).
 
 ## Instalación local:
 
