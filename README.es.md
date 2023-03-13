@@ -34,13 +34,13 @@ Haz clic en los siguientes enlaces para abrir este tutorial inmediatamente en [C
 
 1) Asegúrate de instalar [learnpack](https://learnpack.co), `node.js` version 14+ y python version 3+. Este es el comando para instalar learnpack:
 
-```
+```sh
 $ npm i learnpack -g && learnpack plugins:install learnpack-python
 ```
 
 2) Clona o descarga este repositorio. Una vez que termines de descargar, encontrarás un carpeta nueva con un subdirectorio "exercises" que contiene los ejercicios.
 
-```
+```sh
 $ git clone https://github.com/4GeeksAcademy/python-functions-programming-exercises.git
 ```
 
