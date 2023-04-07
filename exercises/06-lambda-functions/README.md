@@ -23,7 +23,7 @@ multiply = lambda p1,p2: p1 * p2
 
 + **Lambda function** can only have one line.
 
-+ **Lambda function** don't need a `return` statement (it is assumed that it will return whatever is on that one line).
++ **Lambda function** doesn't need a `return` statement (it is assumed that it will return whatever is on that one line).
 
 + **Lambda functions** can be stored in variables or passed as parameters to another function
 
