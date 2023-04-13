@@ -5,6 +5,9 @@ By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https
 
 <a href="https://4geeks.com/interactive-exercise/python-function-exercises"><img height="280" align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/python-lists-loops-programming-exercises/master/python-lp-badge.png"></a>
 <!-- endhide -->
+
+*Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/Lorenagubaira/python-functions-programming-exercises/blob/master/README.es.md) :es:*
+
 Learn and practice Python Functions. You will see the folowing concepts:
 
 1. Declaring a function.
@@ -17,7 +20,7 @@ Learn and practice Python Functions. You will see the folowing concepts:
 
 5. Function recursivity, and many other functional concepts. 
 
-Note: The entire tutorial is 👆 interactive, ✅ auto-graded and with 📹 video tutorials.
+> Note: The entire tutorial is 👆 interactive, ✅ auto-graded and with 📹 video tutorials.
 
 These exercises were built in collaboration, we need you! If you find any bugs or misspells please contribute and report them.
 
@@ -26,9 +29,12 @@ These exercises were built in collaboration, we need you! If you find any bugs o
 </p>
 
 <!-- hide -->
-## One click installation:
 
-Click in the following links to open immediately in [Codespaces](https://codespaces.new/?repo=4GeeksAcademy/python-functions-programming-exercises) or [Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/python-functions-programming-exercises.git).
+## One click installation (recommended):
+
+You can open these exercises in just a few seconds by clicking: [Open in Codespaces](https://codespaces.new/?repo=4GeeksAcademy/css-layouts-tutorial-exercises) (recommended) or [Open in Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/css-layouts-tutorial-exercises.git).
+
+> Once you have VSCode open the LearnPack exercises should start automatically. If exercises don't run automatically you can try typing on your terminal: `$ learnpack start`
 
 ## Local Installation
 
@@ -52,7 +58,6 @@ $ pip install pytest==4.4.2 mock pytest-testdox
 $ learnpack start
 ```
 
-Note: The exercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated.
 
 <!-- endhide -->
 ## How are the exercises organized?
@@ -62,6 +67,8 @@ Each exercise is a small react application containing the following files:
 1. **app.py:** represents the entry python file that will be executed by the computer.
 2. **README.md:** contains exercise instructions.
 3. **test.py:** you don't have to open this file, it contains the testing script for the exercise.
+
+> Note: The exercises have automatic grading but its very rigid and string, my recomendation is to ignore the tests and use them only as a recomendation or you can get frustrated.
 
 ## Contributors
 

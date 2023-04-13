@@ -4,6 +4,7 @@ Creado por <a href="https://twitter.com/alesanchezr">@alesanchezr</a> y <a href=
 
 <a href="https://4geeks.com/interactive-exercise/python-function-exercises"><img height="280" align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/python-lists-loops-programming-exercises/master/python-lp-badge.png"></a>
 <!-- endhide -->
+
 Aprende y practica las funciones de Python. Vas a ver los siguientes conceptos:
 
 1. Declarar una función. 
@@ -26,9 +27,11 @@ Estos ejercicios son colaborativos, ¡te necesitamos! Si encuentras algún error
 
 <!-- hide -->
 
-## Instalación en un clic:
+## Instalación en un clic (recomendado)
 
-Haz clic en los siguientes enlaces para abrir este tutorial inmediatamente en [Codespaces](https://codespaces.new/?repo=4GeeksAcademy/python-functions-programming-exercises) o [Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/python-functions-programming-exercises.git).
+Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Codespaces](https://codespaces.new/?repo=4GeeksAcademy/css-layouts-tutorial-exercises) (recomendado) o [Abrir en Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/css-layouts-tutorial-exercises.git).
+
+> Una vez ya tengas abierto VSCode, los ejercicios de LearnPack deberían empezar automáticamente; si esto no sucede puedes intentar empezar los ejercicios escribiendo este comando en tu terminal: `$ learnpack start`
 
 ## Instalación local:
 
@@ -51,9 +54,6 @@ $ cd python-functions-programming-exercises
 $ pip install pytest==4.4.2 mock pytest-testdox
 $ learnpack start
 ```
-
-Nota: Estos ejercicios tienen calificación automática pero es un tanto rígida, te recomiendo ignorar los tests, considéralos como una recomendación o podrías frustrarte.
-
 <!-- endhide -->
 
 ## ¿Cómo están organizados los ejercicios?
@@ -63,6 +63,8 @@ Cada ejercicio es un pequeño proyecto en Python que contiene los siguientes arc
 1. **app.py:** representa el archivo de entrada de python que será ejecutado en el computador.
 2. **README.md:** contiene las instrucciones del ejercicio.
 3. **test.py:** no tienes que abrir este archivo. Contiene los scripts de pruebas del ejercicio.
+
+> Nota: Estos ejercicios tienen calificación automática pero es un tanto rígida, te recomiendo ignorar los tests, considéralos como una recomendación o podrías frustrarte.
 
 ## Colaboradores
  
