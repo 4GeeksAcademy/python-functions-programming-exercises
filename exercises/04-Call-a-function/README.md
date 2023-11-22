@@ -38,7 +38,7 @@ area = calculate_area(3,6)
 square_area1 = calculate_area(4,4)
 ```
 
-![squares](http://i.imgur.com/VyoJRAL.png)
+![Squares](http://i.imgur.com/VyoJRAL.png)
 
 ## 💡 Hints:
 
