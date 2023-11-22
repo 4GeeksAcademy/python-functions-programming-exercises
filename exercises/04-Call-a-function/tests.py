@@ -1,6 +1,6 @@
 import io, sys, pytest, os, re, mock
 
-@pytest.mark.it("Create a function 'calculate_area'")
+@pytest.mark.it("Create the function 'calculate_area'")
 def test_declare_variable():
     path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
     with open(path, 'r') as content_file:
@@ -16,7 +16,7 @@ def test_for_callable(capsys, app):
 def test_for_integer(capsys, app):
     assert isinstance(app.calculate_area(3,4), int)
 
-@pytest.mark.it('We tried the function sum with a=3 and b=4 and it did not return 7')
+@pytest.mark.it('We tried the function sum with length=3 and width=4 and it did not return 12')
 def test_for_return(capsys, app):
     assert app.calculate_area(3,4) == 12
     assert app.calculate_area(5,4) == 20
@@ -43,7 +43,7 @@ def test_for_square_area_value2(capsys, app):
 def test_for_square_area_value3(capsys, app):
     assert app.square_area3 == 25
 
-@pytest.mark.it("Create a function calculate_area must be called 3 times, one for each figure")
+@pytest.mark.it("The function calculate_area must be called 3 times, one for each square")
 def test_call_calculate_area():
     path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
     with open(path, 'r') as content_file:
