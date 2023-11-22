@@ -1,10 +1,12 @@
 # `02` Hello World
 
-En Python, usamos `print` para hacer que el computador escriba cualquier cosa que queramos (el contenido de una variable, un texto dado, etc.) en algo llamado `la consola`.
+En Python, usamos **print** para hacer que el computador escriba cualquier cosa que queramos (el contenido de una variable, un string dado, etc.) en algo llamado "la consola".
 
-Cada idioma tiene **funciones** para integrarse con la consola, ya que al principio era la única forma de interactuar con los usuarios (antes de que llegara Windows o MacOS o Linux). Hoy en día, la impresión en la consola se utiliza (`print`) sobre todo como herramienta de monitoreo, ideal para dejar un rastro del contenido de las variables durante la ejecución del programa.
+Cada lenguaje tiene **funciones** para integrarse con la consola, ya que al principio era la única forma de interactuar con los usuarios (antes de que llegaran Windows, Linux o macOS)
 
-Este es un ejemplo de cómo usarlo
+Hoy en día, la impresión en la consola se utiliza, sobre todo, como herramienta de monitoreo y depuración, ideal para dejar un rastro del contenido de las variables durante la ejecución del programa.
+
+Este es un ejemplo de cómo usarla:
 
 ```py
 print("How are you?")
@@ -16,5 +18,4 @@ print("How are you?")
 
 ## 💡 Pista:
 
-+ :video_camera: Puedes ver este breve video (5 minutos) sobre la consola:
-https://www.youtube.com/watch?v=vROGBvX_MHQ
++ 📹 Puedes ver este breve video (2 minutos) sobre la consola: https://www.youtube.com/watch?v=vROGBvX_MHQ
