@@ -6,7 +6,7 @@ By <a href="https://twitter.com/alesanchezr">@alesanchezr</a> and <a href="https
 <a href="https://4geeks.com/interactive-exercise/python-function-exercises"><img height="280" align="right" src="https://raw.githubusercontent.com/4GeeksAcademy/python-lists-loops-programming-exercises/master/python-lp-badge.png"></a>
 <!-- endhide -->
 
-*Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/Lorenagubaira/python-functions-programming-exercises/blob/master/README.es.md) :es:*
+*Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/python-functions-programming-exercises/blob/master/README.es.md) :es:*
 
 Learn and practice Python Functions. You will see the following concepts:
 
