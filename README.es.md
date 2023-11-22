@@ -11,7 +11,7 @@ Aprende y practica las funciones de Python. Vas a ver los siguientes conceptos:
 
 2. Llamar a una función. 
 
-3. Alcances de funciones. 
+3. Alcance de una función. 
 
 4. Funciones anidadas.
 
