@@ -1,46 +1,46 @@
 ---
 tutorial: "https://www.youtube.com/watch?v=NU5iW_bWwmY"
 ---
-# `04` Llamando a una función
+# `04` Calling a Function
 
-Una función podría recibir 0 parámetros y tú puedes devolver algo siempre, incluso si no añades explícitamente el `return`.
+Una función podría recibir 0 parámetros y devolverá algo siempre, incluso si no añades explícitamente el `return`.
 
-:point_up: [Presiona aquí para saber más sobre funciones](https://content.breatheco.de/es/lesson/working-with-functions-python/)
+👉 [Clic aquí para saber más sobre funciones](https://4geeks.com/es/lesson/working-with-functions-python-es).
 
 Por ejemplo, una función que calcula el área de un cuadrado sería algo como esto:
 
 ```python
-def calculate_area(length, edge):
-    return length * edge
+def calculate_area(length, width):
+    return length * width
 ```
 
-Si deseas usar esa función para calcular el área de un cuadrado con
+Si deseas usar esa función para calcular el área de un cuadrado con:
 
 ```python
 length = 3
-edge = 6
+width = 6
 ```
 
 Tendrías que hacer algo como esto:
 
 ```python
 area = calculate_area(3,6)
-# El valor del área es 18
+# El valor de 'area' sería 18
 ```
 
 ## 📝 Instrucciones:
 
-1. Crea nuevas variables llamadas `squareArea1`, `square_area2`, `square_area3` y llama a la función `CalculateArea` 3 veces, un por cada cuadrado en la foto, utilizando las dimensiones de la figura, por ejemplo:
+1. Crea nuevas variables llamadas `square_area1`, `square_area2`, `square_area3` y llama a la función `calculate_area` 3 veces, una por cada cuadrado en la foto, utilizando las dimensiones de la figura, por ejemplo:
 
 ```python
-# para la primera figura:
+# Para la primera figura:
 square_area1 = calculate_area(4,4)
 ```
 
-![img](http://i.imgur.com/VyoJRAL.png)
+![Cuadrados](http://i.imgur.com/VyoJRAL.png)
 
-## 💡 Pista:
+## 💡 Pistas:
 
-- Llama 3 veces a la función `calculate_area`, una por cada cuadrado, pasando la longitud y el borde de cada cuadrado.
+- Llama 3 veces a la función `calculate_area`, una por cada cuadrado, pasando la longitud y el ancho de cada cuadrado.
 
-+ :video_camera: [Video de 9 min sobre funciones en Python](https://www.youtube.com/watch?v=NE97ylAnrz4)
++ 📹 [Video de 9 min sobre funciones en Python](https://www.youtube.com/watch?v=NE97ylAnrz4).
