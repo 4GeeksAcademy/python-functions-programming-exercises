@@ -4,7 +4,7 @@ tutorial: "https://www.youtube.com/watch?v=voBO7a0KPtE"
 
 # `02` Hello World
 
-In Python, we use `print` to make the computer write anything we want (the content of a variable, a given string, etc.) in something called "the console".
+In Python, we use **print** to make the computer write anything we want (the content of a variable, a given string, etc.) in something called "the console".
 
 Every language has **functions** to integrate with the console, as it was the only way to interact with the users at the beginning (before Windows, Linux or macOS arrived).
 
