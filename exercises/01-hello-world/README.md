@@ -6,7 +6,7 @@ intro: "https://www.youtube.com/watch?v=awa_yfGgy9s"
 
 We are very excited to have you here !! 🎉 😂
 
-Click `next` on the top right of these instructions when you are ready to start.
+Click `Next →` on the top right of these instructions when you are ready to start.
 
 During this course, you will be learning the following concepts:
 
@@ -24,7 +24,7 @@ During this course, you will be learning the following concepts:
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
-1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) 💻 (idea) 🤔, (build-tests) ⚠️, (pull-request-review) 🤓, (build-tutorial) ✅, (documentation) 📖
+1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribution: (coder) 💻, (idea) 🤔, (build-tests) ⚠️, (pull-request-review) 🤓, (build-tutorial) ✅, (documentation) 📖
 2. [Paolo (plucodev)](https://github.com/plucodev), contribution: (bug reports) 🐛, (coder) 💻, (translation) 🌎
 3. [Marco Gómez (marcogonzalo)](https://github.com/marcogonzalo), contribution: (bug reports) 🐛, (translation) 🌎
 
