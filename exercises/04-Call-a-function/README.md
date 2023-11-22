@@ -6,7 +6,7 @@ tutorial: "https://www.youtube.com/watch?v=NU5iW_bWwmY"
 
 A function could receive zero parameters, and it always returns something, even if you don't explicitly add the `return` statement.
 
-👉 [Click here to read more about functions](https://content.breatheco.de/lesson/working-with-functions-python).
+👉 [Click here to read more about functions](https://4geeks.com/lesson/working-with-functions-python).
 
 For example: a function that calculates the area of a square will be something like this:
 
