@@ -1,13 +1,13 @@
-# `05` Definir vs llamar a una función
+# `05` Defining vs Calling a Function
 
-Las funciones solo existen si tú u otra persona las define... es la única forma en que el compilador/intérprete de idiomas sabe que existen, por lo tanto, puede ejecutarlas cuando las llama.
+Las funciones solo existen si tú u otra persona las define... es la única forma en que el compilador/intérprete de lenguaje sabe que existen, por lo tanto, puede ejecutarlas cuando las llamas.
 
 Para definir una función necesitamos escribir esta fórmula básica de código:
 
 ```python
-def myFunctionName(parameter, parameter2, ...parameterX):
-    # codigo de la función aquí
-    return something
+def nombre_de_funcion(parametro1, parametro2, ...parametroX):
+    # Código de la función aquí
+    return algo
 ```
 
 La palabra `def` es una palabra reservada en Python, esto significa que solo se usa para definir una función.
@@ -16,13 +16,11 @@ La palabra `def` es una palabra reservada en Python, esto significa que solo se 
 
 *Consejo:* usa un nombre descriptivo (no intentes ahorrar palabras, usa tantas como necesites) de esta manera entenderás lo que hace la función (y lo que devuelve).
 
-Nombres de ejemplo: `add_two_integers` (suma dos números enteros), `calculate_taxes` (calcular impuestos) , `get_random_number` (obtener número aleatorio), etc.
+Nombres de ejemplo: `add_two_integers` (suma dos números enteros), `calculate_taxes` (calcular impuestos), `get_random_number` (obtener número aleatorio), etc.
 
-**Parámetros:** puedes definir tantos parámetros como desees, más aún, si los necesitas. 
+**Parámetros:** puedes definir tantos parámetros como desees, más aún, si los necesitas. La cantidad de parámetros dependerá de las operaciones realizadas dentro de la función. 
 
-La cantidad de parámetros dependerá de las operaciones realizadas dentro de la función. 
-
-Ejemplo: si la función está sumando dos enteros (3 + 4), esto significa que la función necesitará dos parámetros (uno para cada entero).
+Ejemplo: si la función está sumando dos enteros (a + b), esto significa que la función necesitará dos parámetros (uno para cada entero).
 
 **Alcance:** Todo el código que contenga la función debe tener una sangría a la derecha, todo lo que esté en una sangría diferente no será considerado como parte de la función, a esto se llama **alcance**, y puede ser local (dentro de la función) y global (fuera de la función).
 
@@ -34,7 +32,7 @@ Ejemplo de una función:
 
 ```python
 def concatenate_number_to_string(local_number, local_string):
-    local_variable = local_string+""+str(local_number)
+    local_variable = local_string + str(local_number)
     return local_variable
 ```
 
