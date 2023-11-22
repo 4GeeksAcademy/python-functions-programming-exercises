@@ -25,4 +25,4 @@ print(total2)  # Prints 15 on the console
 
 ## 📝 Instructions:
 
-1. Please calculate the sum between `3445324` and `53454423` and assign the result to a variable called `super_duper`
+1. Please calculate the sum between `3445324` and `53454423` and assign the result to a variable called `super_duper`.
