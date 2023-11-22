@@ -45,4 +45,4 @@ def concatenate_number_to_string(local_number, local_string):
 
 ## 💡 Hint:
 
-+ Remember to add the `return` line. Every function should return something, in this case it should be the result of the multiplication.
++ Remember to add the `return` line. Every function should return something, in this case, it should be the result of the multiplication.
