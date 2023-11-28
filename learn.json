@@ -1,4 +1,5 @@
 {
+    "intro": "https://youtu.be/GjQEotj3t6Y?si=cVWLDw5H_FcdOrIY",
     "title": {
         "us": "Learn Python Functions Interactively",
         "es": "Aprende las funciones de Python Interactivamente"
@@ -7,7 +8,7 @@
     "repository": "https://github.com/4GeeksAcademy/python-functions-programming-exercises",
     "preview": "https://github.com/4GeeksAcademy/python-functions-programming-exercises/blob/master/preview.gif?raw=true",
     "description": {
-        "us": "Learn and master functional programing by doing auto-graded interactive exercises.",
+        "us": "Learn and master functional programming by doing auto-graded interactive exercises.",
         "es": "Aprende y domina funciones en Python haciendo ejercicios interactivos y auto-evaluados."
     },
     "duration": 10,
