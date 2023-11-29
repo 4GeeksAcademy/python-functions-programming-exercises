@@ -14,4 +14,4 @@ tutorial: "https://www.youtube.com/watch?v=jBXve_vh7dU"
 
 + Stuck on sorting? Read the W3 Schools page on sorting lists:
 
-https://www.w3schools.com/python/ref_list_sort.asp
+https://www.w3schools.com/python/ref_func_sorted.asp
