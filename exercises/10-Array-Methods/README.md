@@ -10,7 +10,7 @@ tutorial: "https://www.youtube.com/watch?v=jBXve_vh7dU"
 
 ## 💡 Hints:
 
-+ Every list comes with default functions that allow sorting - use it inside your function!
++ Every list comes with default functions that allow sorting - use them inside your function!
 
 + Stuck on sorting? Read the W3 Schools page on sorting lists:
 
