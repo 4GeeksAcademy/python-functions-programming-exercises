@@ -2,7 +2,7 @@
 
 Una **función lambda** es una función con solo una línea de código y sin nombre.
 
-Es un tipo de función muy especial en el mundo Python porque puedes usarla como una 'pequeña utilidad' para una programación muy ágil:
+Es un tipo de función muy especial en el mundo Python porque puedes usarla como una pequeña utilidad para una programación muy ágil:
 
 ```python
 # Declarando una función normal para una multiplicación
@@ -13,13 +13,15 @@ def multiply(p1, p2):
 multiply = lambda p1,p2: p1 * p2
 ```
 
-1. Las **funciones lambda** tienen que ser siempre muy pequeñas.
+### 👉 Caracteristicas:
 
-2. Las **funciones lambda** pueden tener únicamente una línea.
++ Las **funciones lambda** tienen que ser siempre muy pequeñas.
 
-3. Las **funciones lambda** no necesitan un `return`, se asume que lo que haya en esa línea devolverá un valor.
++ Las **funciones lambda** pueden tener únicamente una línea.
 
-4. Las **funciones lambda** pueden almacenarse en variables o ser pasadas como parámetro a otra función.
++ Las **funciones lambda** no necesitan un `return`, se asume que lo que haya en esa línea devolverá un valor.
+
++ Las **funciones lambda** pueden almacenarse en variables o ser pasadas como parámetro a otra función.
 
 
 ## 📝 Instrucciones:
