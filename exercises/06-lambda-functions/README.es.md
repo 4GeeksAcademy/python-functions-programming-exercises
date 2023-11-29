@@ -1,4 +1,4 @@
-# `06` Funciones Lambda en Python
+# `06` Lambda Functions in Python
 
 Una **función lambda** es una función con solo una línea de código y sin nombre.
 
