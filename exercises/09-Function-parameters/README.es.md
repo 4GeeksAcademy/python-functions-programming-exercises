@@ -8,7 +8,7 @@ Los nombres de los parámetros no importan, pero debe ser **lo más explícito p
 
 ## 📝 Instrucciones:
 
-+ Escribe la función `render_person` requerida para imprimir un string como el siguiente:
+1. Escribe la función `render_person` requerida para imprimir un string como el siguiente:
 
 ```text
 Bob is a 23 years old male born in 05/22/1983 with green eyes
