@@ -1,6 +1,6 @@
 import io, sys, pytest, os, re, mock
 
-@pytest.mark.it("Call the function dollar_to_euro passing the 137 dollars to get the amount in Euro")
+@pytest.mark.it("Call the function dollar_to_euro passing 137 dollars to get the amount in Euros")
 def test_declare_variable():
     path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
     with open(path, 'r') as content_file:
@@ -9,7 +9,7 @@ def test_declare_variable():
         assert bool(regex.search(content)) == True
 
 
-@pytest.mark.it("Call the function euro_to_yen passing the Euro converted amount to get the amount in Yen")
+@pytest.mark.it("Call the function euro_to_yen passing the Euros converted amount to get the amount in Yen")
 def test_euro_to_yen():
     path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
     with open(path, 'r') as content_file:
@@ -22,4 +22,4 @@ def test_euro_to_yen():
 def test_for_file_output(capsys):
     import app
     captured = capsys.readouterr()
-    assert "15137.609500000002\n" == captured.out
+    assert "20159.139\n" == captured.out
