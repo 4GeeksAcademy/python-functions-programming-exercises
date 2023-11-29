@@ -1,13 +1,12 @@
-# `07` Funciones Lambda
+# `07` Lambda Functions
 
-
-**:point_up: Recuerda:** 
+### ☝ Recuerda:
 
 Las funciones Lambda permiten una sintaxis corta para escribir expresiones de funciones.
 
 ```python
-multy = lambda x, y: x * y
-print(multy(2,2))
+multi = lambda x, y: x * y
+print(multi(2,2))
 ```
 
 ## 📝 Instrucciones:
@@ -18,4 +17,4 @@ print(multy(2,2))
 
 ## 💡 Pista:
 
-+ Busca en Google "remove last letter form string python" (puedes usar los corchetes).
++ Busca en Google "como eliminar el último caracter de un string python" (puedes usar los corchetes).
