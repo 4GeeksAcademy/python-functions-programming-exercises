@@ -17,6 +17,7 @@ def multiply(p1, p2):
 # Declaring it now like a one line lambda function
 multiply = lambda p1,p2: p1 * p2
 ```
+
 👉 Facts:
 
 + **Lambda functions** have to always be very small.
@@ -38,7 +39,7 @@ multiply = lambda p1,p2: p1 * p2
 + Here is how you would declare it like a normal function:
 
 ```py
-# This function returns True if a number is odd.
+# This function returns True if a number is odd
 def is_odd(num):
     return num % 2 != 0
 ```
