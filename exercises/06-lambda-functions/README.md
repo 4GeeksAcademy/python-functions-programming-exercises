@@ -3,29 +3,29 @@ tutorial: "https://www.youtube.com/watch?v=HACQ9uerCuE"
 ---
 
 
-# `06` Lambda functions in Python
+# `06` Lambda Functions in Python
 
 A **lambda function** is a function with just one line of code and no name.
 
-It is a very special type of funcion in the world of python because you can use it as a small utility for very agile coding:
+It is a very special type of function in the world of Python because you can use it as a small utility for very agile coding:
 
 ```python
-# declaring a normal funcion for multiplication
+# Declaring a normal function for multiplication
 def multiply(p1, p2):
     return p1 * p2
 
-# declaring it now like a one line lambda
+# Declaring it now like a one line lambda function
 multiply = lambda p1,p2: p1 * p2
 ```
-:point_uo:Facts:
+👉 Facts:
 
-+ **Lambda fuctions** have to be always very small.
++ **Lambda functions** have to always be very small.
 
-+ **Lambda function** can only have one line.
++ **Lambda functions** can only have one line.
 
-+ **Lambda function** doesn't need a `return` statement (it is assumed that it will return whatever is on that one line).
++ **Lambda functions** don't need a `return` statement (it is assumed that it will return whatever is on that one line).
 
-+ **Lambda functions** can be stored in variables or passed as parameters to another function
++ **Lambda functions** can be stored in variables or passed as parameters to another function.
 
 ## 📝 Instructions:
 
@@ -33,12 +33,12 @@ multiply = lambda p1,p2: p1 * p2
 
 2. Assign a **lambda function** to it that returns `True` or `False` if a given number is odd.
 
-## 💡Hint
+## 💡 Hint
 
 + Here is how you would declare it like a normal function:
 
 ```py
-# this function return True if a number is odd.
+# This function returns True if a number is odd.
 def is_odd(num):
     return num % 2 != 0
 ```
