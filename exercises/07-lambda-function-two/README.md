@@ -9,8 +9,8 @@ tutorial: "https://www.youtube.com/watch?v=1HwmTkQPeMo"
 Lambda functions allow a short syntax for writing function expressions.
 
 ```python
-multi = lambda x, y: x * y
-print(multi(2,2))
+multiply = lambda x, y: x * y
+print(multiply(2,2))
 ```
 
 ## 📝 Instructions:
