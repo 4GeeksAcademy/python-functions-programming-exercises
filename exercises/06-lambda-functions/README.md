@@ -18,7 +18,7 @@ def multiply(p1, p2):
 multiply = lambda p1,p2: p1 * p2
 ```
 
-👉 Facts:
+### 👉 Facts:
 
 + **Lambda functions** have to always be very small.
 
