@@ -18,7 +18,7 @@ For example, in this particular case, we have two functions available:
 
 1. Using the two functions available, print on the console the value of **137** dollars in yen.
 
-## 💡 Hint:
+## 💡 Hints:
 
 Working backwards:
 
