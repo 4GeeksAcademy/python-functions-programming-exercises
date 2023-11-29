@@ -8,7 +8,7 @@ def test_declare_variable():
         regex = re.compile(r"is_odd(\s*)=(\s*)lambda")
         assert bool(regex.search(content)) == True
 
-@pytest.mark.it('The function is_odd must exist')
+@pytest.mark.it("The function 'is_odd' must exist")
 def test_for_callable(capsys):
     import app as app
     assert callable(app.is_odd)
