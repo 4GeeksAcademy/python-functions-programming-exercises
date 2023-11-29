@@ -1,4 +1,4 @@
-# `09` Parámetros de funciones
+# `09` Function parameters
 
 Puedes especificar tantos parámetros como desees en una función. 
 
@@ -10,10 +10,12 @@ Los nombres de los parámetros no importan, pero debe ser **lo más explícito p
 
 + Escribe la función `render_person` requerida para imprimir un string como el siguiente:
 
-```py
+```text
 Bob is a 23 years old male born in 05/22/1983 with green eyes
 ```
 
-## 💡 Pista
+## 💡 Pistas:
 
-- Tienes que hacer una concatenación de string y devolver ese string.
++ Tienes que hacer una concatenación de string y devolver ese string.
+
++ También, puedes buscar en Google "como insertar variables en un string python".
