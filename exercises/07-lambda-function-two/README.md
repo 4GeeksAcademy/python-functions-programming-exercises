@@ -6,7 +6,7 @@ tutorial: "https://www.youtube.com/watch?v=1HwmTkQPeMo"
 
 ### ☝ Remember:
 
-Lambda functions allows a short syntax for writing function expressions.
+Lambda functions allow a short syntax for writing function expressions.
 
 ```python
 multi = lambda x, y: x * y
