@@ -5,8 +5,8 @@
 Las funciones Lambda permiten una sintaxis corta para escribir expresiones de funciones.
 
 ```python
-multi = lambda x, y: x * y
-print(multi(2,2))
+multiply = lambda x, y: x * y
+print(multiply(2,2))
 ```
 
 ## 📝 Instrucciones:
