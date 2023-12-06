@@ -1,4 +1,4 @@
-def calculate_area(length,edge):
-	return length * edge
+def calculate_area(length, width):
+	return length * width
 
-# Your code Below this line:
+# Your code below this line

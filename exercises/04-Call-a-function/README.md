@@ -2,47 +2,47 @@
 tutorial: "https://www.youtube.com/watch?v=NU5iW_bWwmY"
 ---
 
-# `04` Calling a function  
+# `04` Calling a Function  
 
 A function could receive zero parameters, and it always returns something, even if you don't explicitly add the `return` statement.
 
-:point_up: [Click here to read more about functions](https://content.breatheco.de/lesson/working-with-functions-python)
+👉 [Click here to read more about functions](https://4geeks.com/lesson/working-with-functions-python).
 
 For example: a function that calculates the area of a square will be something like this:
 
 ```python
-def calculate_area(length, edge):
-    return length * edge
+def calculate_area(length, width):
+    return length * width
 ```
 
 If you want to use that function to calculate the area of a square with:
 
 ```python
 length = 3
-edge = 6
+width = 6
 ```
 
 You need to do something like this:
 
 ```python
 area = calculate_area(3,6)
-# The value of area will be set to 18
+# The value of 'area' will be set to 18
 ```
 
 ## 📝 Instructions:
 
-1. Create a new variables named `square_area1`, `square_area2`, `square_area3` and call the function `calculate_area` three times one for each square in the picture, for example: 
+1. Create new variables named `square_area1`, `square_area2`, `square_area3` and call the function `calculate_area` three times, one for each square in the picture, for example: 
 
 ```python
 # For the first figure:
 square_area1 = calculate_area(4,4)
 ```
 
-![img](http://i.imgur.com/VyoJRAL.png)
+![Squares](http://i.imgur.com/VyoJRAL.png)
 
-## 💡 Hint:
+## 💡 Hints:
 
 + Call the `calculate_area` function three times, one per each square, passing the length and edge of each square.
 
-+ :video_camera: [9 min video about functions in python](https://www.youtube.com/watch?v=NE97ylAnrz4)
++ 📹 [9 min video about functions in Python](https://www.youtube.com/watch?v=NE97ylAnrz4).
 
