@@ -1,6 +1,6 @@
 import io, sys, pytest, os, re, mock
 
-@pytest.mark.it("Create a function 'multi'")
+@pytest.mark.it("Create the function 'multi'")
 def test_declare_variable():
     path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
     with open(path, 'r') as content_file:
@@ -20,6 +20,6 @@ def test_for_return_something(capsys, app):
 def test_for_integer(capsys, app):
     assert app.multi(3,4) == 12
 
-@pytest.mark.it('The function multi must receive two numbers and return their multiplication. Testing with different values.')
+@pytest.mark.it('The function multi must receive two numbers and return their multiplication. Testing with different values')
 def test_for_function_return(capsys, app):
     assert app.multi(10, 6) == 60
