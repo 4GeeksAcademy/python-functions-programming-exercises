@@ -1,6 +1,6 @@
 import io, sys, pytest, os, re, mock
 
-@pytest.mark.it("Declare the function sort_names")
+@pytest.mark.it("Declare the function 'sort_names'")
 def test_declare_variable():
     path = os.path.dirname(os.path.abspath(__file__))+'/app.py'
     with open(path, 'r') as content_file:
@@ -13,7 +13,7 @@ def test_declare_variable():
 def test_for_functon_existence(capsys, app):
     assert callable(app.sort_names)
 
-@pytest.mark.it('The function sort_names must accept 1 parameter and return a sorted one')
+@pytest.mark.it('The function sort_names must accept a list and return a sorted one')
 def test_for_file_output(capsys):
     import app
     captured = capsys.readouterr()

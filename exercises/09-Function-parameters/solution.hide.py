@@ -1,6 +1,6 @@
 # Your code goes here:
-def render_person(name, birthdate, eye_color, age, sex):
-    return name +" is a "+ str(age) +" years old " + sex +" born in " + birthdate + " with "+eye_color +" eyes"
+def render_person(name, birth_date, eye_color, age, gender):
+    return name + " is a " + str(age) + " years old " + gender + " born in " + birth_date + " with " + eye_color + " eyes"
 
 
 # Do not edit below this line
