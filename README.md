@@ -58,7 +58,7 @@ $ learnpack start
 
 ## How are the exercises organized?
 
-Each exercise is a small React application containing the following files:
+Each exercise is a small Python application containing the following files:
 
 1. **app.py:** represents the entry Python file that will be executed by the computer.
 2. **README.md:** contains exercise instructions.
