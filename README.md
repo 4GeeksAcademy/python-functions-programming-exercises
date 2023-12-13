@@ -40,7 +40,7 @@ You can open these exercises in just a few seconds by clicking: [Open in Codespa
 $ npm i -g @learnpack/learnpack@2.1.20 && learnpack plugins:install @learnpack/python@1.0.0
 ```
 
-2. Clone or download this repository. Once you finish downloading, you will find a new folder with a subdirectory called "exercises" that contains all the exercises within.
+2. Clone or download this repository in your local environment.
 
 ```bash
 $ git clone https://github.com/4GeeksAcademy/python-functions-programming-exercises.git
