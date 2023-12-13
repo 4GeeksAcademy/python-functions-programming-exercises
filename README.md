@@ -37,7 +37,7 @@ You can open these exercises in just a few seconds by clicking: [Open in Codespa
 1) Make sure you have [LearnPack](https://learnpack.co) installed, node.js version 14+, and Python version 3+. This is the command to install LearnPack:
 
 ```bash
-$ npm i learnpack -g && learnpack plugins:install learnpack-python
+$ npm i -g @learnpack/learnpack@2.1.20 && learnpack plugins:install @learnpack/python@1.0.0
 ```
 
 2) Clone or download this repository. Once you finish downloading, you will find a new folder with a subdirectory called "exercises" that contains all the exercises within.
