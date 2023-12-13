@@ -31,22 +31,22 @@ Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Co
 
 ## Instalación local:
 
-1) Asegúrate de instalar [LearnPack](https://learnpack.co), node.js version 14+ y Python version 3+. Este es el comando para instalar LearnPack:
+1. Asegúrate de instalar [LearnPack](https://learnpack.co), node.js version 14+ y Python version 3+. Este es el comando para instalar LearnPack:
 
 ```bash
 $ npm i -g @learnpack/learnpack@2.1.20 && learnpack plugins:install @learnpack/python@1.0.0
 ```
 
-2) Clona o descarga este repositorio. Una vez que termines de descargar, encontrarás una carpeta nueva con un subdirectorio llamado "exercises" que contiene los ejercicios.
+2. Clona o descarga este repositorio en tu ambiente local.
 
 ```bash
 $ git clone https://github.com/4GeeksAcademy/python-functions-programming-exercises.git
+$ cd python-functions-programming-exercises
 ```
 
-3) Comienza el tutorial/ejercicios ejecutando el siguiente comando en la raíz del proyecto: 
+3. Comienza el tutorial/ejercicios ejecutando el siguiente comando en la raíz del proyecto: 
 
 ```bash
-$ cd python-functions-programming-exercises
 $ pip3 install pytest==6.2.5 pytest-testdox mock
 $ learnpack start
 ```
