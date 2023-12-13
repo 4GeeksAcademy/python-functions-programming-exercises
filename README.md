@@ -47,6 +47,8 @@ $ git clone https://github.com/4GeeksAcademy/python-functions-programming-exerci
 $ cd python-functions-programming-exercises
 ```
 
+> Note: Once you finish downloading, you will find an "exercises" folder that contains all the exercises within.
+
 3. Start the tutorial/exercises by running the following command from the root of the project:
 
 ```bash
