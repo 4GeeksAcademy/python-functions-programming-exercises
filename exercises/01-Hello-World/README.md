@@ -2,7 +2,7 @@
 tutorial: "https://www.youtube.com/watch?v=voBO7a0KPtE"
 ---
 
-# `02` Hello World
+# `01` Hello World
 
 In Python, we use **print** to make the computer write anything we want (the content of a variable, a given string, etc.) in something called "the console".
 

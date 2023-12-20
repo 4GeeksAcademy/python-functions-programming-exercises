@@ -1,4 +1,4 @@
-# `02` Hello World
+# `01` Hello World
 
 En Python, usamos **print** para hacer que el computador escriba cualquier cosa que queramos (el contenido de una variable, un string dado, etc.) en algo llamado "la consola".
 

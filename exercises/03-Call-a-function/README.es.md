@@ -1,7 +1,7 @@
 ---
 tutorial: "https://www.youtube.com/watch?v=NU5iW_bWwmY"
 ---
-# `04` Calling a Function
+# `03` Calling a Function
 
 Una función podría recibir 0 parámetros y devolverá algo siempre, incluso si no añades explícitamente el `return`.
 

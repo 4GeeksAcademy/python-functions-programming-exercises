@@ -1,4 +1,4 @@
-# `03` What is a function?
+# `02` What is a function?
 
 Puedes ver una función como un **fragmento de código** que puedes usar varias veces.
 

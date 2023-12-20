@@ -2,7 +2,7 @@
 tutorial: "https://www.youtube.com/watch?v=uaiDxW4LJNA"
 ---
 
-# `09` Function parameters
+# `08` Function parameters
 
 You can specify as many parameters as you want in a function. 
 
