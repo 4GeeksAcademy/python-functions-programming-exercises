@@ -34,23 +34,25 @@ You can open these exercises in just a few seconds by clicking: [Open in Codespa
 
 ## Local Installation
 
-1) Make sure you have [LearnPack](https://learnpack.co) installed, node.js version 14+, and Python version 3+. This is the command to install LearnPack:
+1. Make sure you have [LearnPack](https://learnpack.co) installed, node.js version 14+, and Python version 3+. This is the command to install LearnPack:
 
 ```bash
-$ npm i learnpack -g && learnpack plugins:install learnpack-python
+$ npm i -g @learnpack/learnpack@2.1.20 && learnpack plugins:install @learnpack/python@1.0.0
 ```
 
-2) Clone or download this repository. Once you finish downloading, you will find a new folder with a subdirectory called "exercises" that contains all the exercises within.
+2. Clone or download this repository in your local environment.
 
 ```bash
 $ git clone https://github.com/4GeeksAcademy/python-functions-programming-exercises.git
+$ cd python-functions-programming-exercises
 ```
 
-3) Start the tutorial/exercises by running the following command from the root of the project:
+> Note: Once you finish downloading, you will find an "exercises" folder that contains all the exercises within.
+
+3. Start the tutorial/exercises by running the following command from the root of the project:
 
 ```bash
-$ cd python-functions-programming-exercises
-$ pip install pytest==4.4.2 mock pytest-testdox
+$ pip3 install pytest==6.2.5 pytest-testdox mock
 $ learnpack start
 ```
 
@@ -58,7 +60,7 @@ $ learnpack start
 
 ## How are the exercises organized?
 
-Each exercise is a small React application containing the following files:
+Each exercise is a small Python application containing the following files:
 
 1. **app.py:** represents the entry Python file that will be executed by the computer.
 2. **README.md:** contains exercise instructions.

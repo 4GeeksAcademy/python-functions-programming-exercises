@@ -31,23 +31,25 @@ Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Co
 
 ## Instalación local:
 
-1) Asegúrate de instalar [LearnPack](https://learnpack.co), node.js version 14+ y Python version 3+. Este es el comando para instalar LearnPack:
+1. Asegúrate de instalar [LearnPack](https://learnpack.co), node.js version 14+ y Python version 3+. Este es el comando para instalar LearnPack:
 
 ```bash
-$ npm i learnpack -g && learnpack plugins:install learnpack-python
+$ npm i -g @learnpack/learnpack@2.1.20 && learnpack plugins:install @learnpack/python@1.0.0
 ```
 
-2) Clona o descarga este repositorio. Una vez que termines de descargar, encontrarás una carpeta nueva con un subdirectorio llamado "exercises" que contiene los ejercicios.
+2. Clona o descarga este repositorio en tu ambiente local.
 
 ```bash
 $ git clone https://github.com/4GeeksAcademy/python-functions-programming-exercises.git
+$ cd python-functions-programming-exercises
 ```
 
-3) Comienza el tutorial/ejercicios ejecutando el siguiente comando en la raíz del proyecto: 
+> Nota: Una vez que termine de descargar, encontrarás la carpeta "exercises" que contiene todos los ejercicios.
+
+3. Comienza el tutorial/ejercicios ejecutando el siguiente comando en la raíz del proyecto: 
 
 ```bash
-$ cd python-functions-programming-exercises
-$ pip install pytest==4.4.2 mock pytest-testdox
+$ pip3 install pytest==6.2.5 pytest-testdox mock
 $ learnpack start
 ```
 
@@ -67,7 +69,7 @@ Cada ejercicio es un pequeño proyecto en Python que contiene los siguientes arc
  
 Gracias a estas personas maravillosas ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
-1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribución: (programador) 💻, (idea) 🤔, (build-tests) ⚠️, (pull-request-review) 🤓, (build-tutorial) ✅, (documentación) 📖
+1. [Alejandro Sanchez (alesanchezr)](https://github.com/alesanchezr), contribución: (programador) 💻, (idea) 🤔, (build-tests) ⚠️, (pull-request-review) 👀, (build-tutorial) ✅, (documentación) 📖
 
 2. [Paolo (plucodev)](https://github.com/plucodev), contribución: (bug reports) 🐛, (programador) 💻, (traducción) 🌎
 
