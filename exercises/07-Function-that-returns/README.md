@@ -2,7 +2,7 @@
 tutorial: "https://www.youtube.com/watch?v=-tqNmngh1PE"
 ---
 
-# `08` Functions that return
+# `07` Functions that return
 
 It is very good practice that all functions return something, even if it is `None`. 
 

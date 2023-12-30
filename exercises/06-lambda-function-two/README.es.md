@@ -1,4 +1,4 @@
-# `07` Lambda Functions
+# `06` Lambda Functions
 
 ### ☝ Recuerda:
 

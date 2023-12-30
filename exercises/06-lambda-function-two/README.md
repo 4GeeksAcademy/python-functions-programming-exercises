@@ -2,7 +2,7 @@
 tutorial: "https://www.youtube.com/watch?v=1HwmTkQPeMo"
 ---
 
-# `07` Lambda Functions
+# `06` Lambda Functions
 
 ### ☝ Remember:
 

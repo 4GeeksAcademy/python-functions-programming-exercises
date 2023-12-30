@@ -1,4 +1,4 @@
-# `10` List Methods
+# `09` List Methods
 
 ## 📝 Instrucciones:
 

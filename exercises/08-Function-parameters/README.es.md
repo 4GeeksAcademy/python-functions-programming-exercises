@@ -1,4 +1,4 @@
-# `09` Function parameters
+# `08` Function parameters
 
 Puedes especificar tantos parámetros como desees en una función. 
 

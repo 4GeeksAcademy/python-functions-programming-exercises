@@ -3,7 +3,7 @@ tutorial: "https://www.youtube.com/watch?v=HACQ9uerCuE"
 ---
 
 
-# `06` Lambda Functions in Python
+# `05` Lambda Functions in Python
 
 A **lambda function** is a function with just one line of code and no name.
 

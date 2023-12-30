@@ -2,7 +2,7 @@
 tutorial: "https://www.youtube.com/watch?v=NU5iW_bWwmY"
 ---
 
-# `04` Calling a Function  
+# `03` Calling a Function  
 
 A function could receive zero parameters, and it always returns something, even if you don't explicitly add the `return` statement.
 

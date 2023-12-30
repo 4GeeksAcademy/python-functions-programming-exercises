@@ -2,7 +2,7 @@
 tutorial: "https://www.youtube.com/watch?v=jBXve_vh7dU"
 ---
 
-# `10` List Methods
+# `09` List Methods
 
 ## 📝 Instructions:
 
