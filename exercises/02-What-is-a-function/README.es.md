@@ -1,3 +1,6 @@
+---
+tutorial: "https://www.youtube.com/watch?v=4JzHH2qR8n0"
+---
 # `02` What is a function?
 
 Puedes ver una función como un **fragmento de código** que puedes usar varias veces.

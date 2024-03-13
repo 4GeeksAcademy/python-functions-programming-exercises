@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=ztyFrIY7U3o"
+---
+
 # `04` Defining vs Calling a Function
 
 Las funciones solo existen si tú u otra persona las define... es la única forma en que el compilador/intérprete de lenguaje sabe que existen, por lo tanto, puede ejecutarlas cuando las llamas.

@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=Ne8ZRZTSaQA"
+---
+
 # `09` List Methods
 
 ## 📝 Instrucciones:
