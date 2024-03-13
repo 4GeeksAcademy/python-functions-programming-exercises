@@ -1,5 +1,5 @@
 ---
-tutorial: "https://www.youtube.com/watch?v=voBO7a0KPtE"
+tutorial: "https://www.youtube.com/watch?v=_0zvPIS587w"
 ---
 
 # `01` Hello World

@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=F30Vkf69SHI"
+---
+
 # `06` Lambda Functions
 
 ### ☝ Recuerda:

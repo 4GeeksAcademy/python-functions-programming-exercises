@@ -1,5 +1,5 @@
 ---
-tutorial: "https://www.youtube.com/watch?v=jBXve_vh7dU"
+tutorial: "https://www.youtube.com/watch?v=5Wk2a16nnUY"
 ---
 
 # `09` List Methods

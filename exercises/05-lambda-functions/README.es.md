@@ -1,3 +1,7 @@
+---
+tutorial: "https://www.youtube.com/watch?v=UH__beyfTlo"
+---
+
 # `05` Lambda Functions in Python
 
 Una **función lambda** es una función con solo una línea de código y sin nombre.

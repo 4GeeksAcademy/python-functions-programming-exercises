@@ -1,5 +1,5 @@
 ---
-tutorial: "https://www.youtube.com/watch?v=tgTLyZ0cKj4"
+tutorial: "https://www.youtube.com/watch?v=U5GId8yOc-A"
 ---
 
 # `02` What is a function?

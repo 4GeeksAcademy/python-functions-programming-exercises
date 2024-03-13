@@ -1,5 +1,5 @@
 ---
-tutorial: "https://www.youtube.com/watch?v=1HwmTkQPeMo"
+tutorial: "https://www.youtube.com/watch?v=0KX8Bh7d_9E"
 ---
 
 # `06` Lambda Functions

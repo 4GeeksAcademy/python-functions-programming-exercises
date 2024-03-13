@@ -1,5 +1,5 @@
 ---
-intro: "https://www.youtube.com/watch?v=awa_yfGgy9s"
+intro: "https://www.youtube.com/watch?v=06rxSj-9wM4"
 ---
 
 # Welcome to Python Functions!

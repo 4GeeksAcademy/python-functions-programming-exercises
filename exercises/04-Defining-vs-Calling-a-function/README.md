@@ -1,5 +1,5 @@
 ---
-tutorial: "https://www.youtube.com/watch?v=fz4ttmwZWuc"
+tutorial: "https://www.youtube.com/watch?v=XbDE19gR678"
 ---
 
 # `04` Defining vs Calling a Function
