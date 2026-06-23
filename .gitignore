@@ -11,6 +11,9 @@
 !README.md
 !README.*.md
 !.vscode
+!pyproject.toml
+!tests
+!tests/**
 
 !/exercises
 !/exercises/*
@@ -18,6 +21,30 @@
 *.pyc
 __pycache__/
 .pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+.claude/*
+
+# Poetry (lock files should be committed)
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
 
 !/.learn
 /.learn/**
