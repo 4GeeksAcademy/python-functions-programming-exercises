@@ -59,7 +59,7 @@ $ learnpack start
 
 Cada ejercicio es un pequeño proyecto en Python que contiene los siguientes archivos:
 
-1. **app.py:** representa el archivo de entrada de Python que será ejecutado en el computador.
+1. **app.py:** representa el archivo de entrada de Python que será ejecutado en el ordenador.
 2. **README.md:** contiene las instrucciones del ejercicio.
 3. **test.py:** no tienes que abrir este archivo, contiene los scripts de pruebas del ejercicio.
 
