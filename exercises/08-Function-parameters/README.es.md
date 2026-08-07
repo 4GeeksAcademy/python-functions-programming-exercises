@@ -22,4 +22,4 @@ Bob is a 23 years old male born in 05/22/1983 with green eyes
 
 + Tienes que hacer una concatenación de string y devolver ese string.
 
-+ También, puedes buscar en Google "como insertar variables en un string python".
++ También, puedes buscar en Google "cómo insertar variables en un string python".
