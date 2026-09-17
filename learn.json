@@ -17,7 +17,8 @@
     "videoSolutions": true,
     "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
     "graded": true,
-    
+    "gitpod":true,
+    "localhostOnly":false,
     "editor": {
         "version": "5.0"
     },
