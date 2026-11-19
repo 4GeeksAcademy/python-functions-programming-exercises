@@ -8,12 +8,13 @@
     "repository": "https://github.com/4GeeksAcademy/python-functions-programming-exercises",
     "preview": "https://github.com/4GeeksAcademy/python-functions-programming-exercises/blob/master/preview.gif?raw=true",
     "description": {
-        "us": "Learn and master functional programming by doing auto-graded interactive exercises.",
-        "es": "Aprende y domina funciones en Python haciendo ejercicios interactivos y auto-evaluados."
+        "us": "Learn Python functions through interactive, auto-graded exercises. Master key concepts like declaring, calling, and nesting functions, as well as recursion and scopes. This hands-on approach helps solidify functional programming skills, with instant feedback and video tutorials to guide your learning.",
+        "es": "Aprende funciones en Python a través de ejercicios interactivos y autoevaluados. Domina conceptos clave como declarar, llamar y anidar funciones, así como la recursión y los ámbitos. Este enfoque práctico ayuda a consolidar habilidades de programación funcional, con retroalimentación instantánea y tutoriales en video."
     },
     "duration": 10,
     "difficulty": "easy",
     "projectType": "tutorial",
+    "autoPlay": "true",
     "videoSolutions": true,
     "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
     "graded": true,
