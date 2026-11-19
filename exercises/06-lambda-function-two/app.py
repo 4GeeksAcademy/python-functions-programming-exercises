@@ -1,3 +1,4 @@
+rapid = lambda string: string[:-1]
 
 
 
